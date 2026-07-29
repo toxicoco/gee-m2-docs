@@ -1,0 +1,78 @@
+site_name: GeeM2 引擎文档
+site_description: GeeM2 传奇引擎完整技术文档库
+site_author: GeeM2 Community
+site_url: https://your-org.github.io/gee-m2-docs/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: zh
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-org/gee-m2-docs
+
+copyright: Copyright &copy; GeeM2 Community
+
+nav:
+  - 首页: index.md
+  - 更新日志: 00-更新日志/README.md
+  - 数据库配置: 02-数据库配置/README.md
+  - 功能操作命令: 03-功能操作命令/README.md
+  - 脚本检测命令: 04-脚本检测命令/README.md
+  - 特殊触发功能: 05-特殊触发功能/README.md
+  - 游戏功能详解: 06-游戏功能详解/README.md
+  - 游戏魔法技能: 07-游戏魔法技能/README.md
+  - 脚本实例: 08-脚本实例/README.md
+  - 常见问题解答: 09-常见问题解答/README.md
+  - 其他资料: 10-其他资料/README.md
+  - HeroM2 兼容:
+    - 功能操作命令: 11-HeroM2兼容/01-功能操作命令/README.md
+    - 脚本检测命令: 11-HeroM2兼容/02-脚本检测命令/README.md
+    - 特殊触发功能: 11-HeroM2兼容/03-特殊触发功能/README.md
+    - 游戏功能详解: 11-HeroM2兼容/04-游戏功能详解/README.md

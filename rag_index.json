@@ -1,0 +1,5560 @@
+{
+  "project": "GeeM2 Engine Documentation",
+  "generated_at": "2026-07-29T15:03:26.114160",
+  "total_documents": 791,
+  "categories": [
+    "00-更新日志",
+    "02-数据库配置",
+    "03-功能操作命令",
+    "04-脚本检测命令",
+    "05-特殊触发功能",
+    "06-游戏功能详解",
+    "07-游戏魔法技能",
+    "08-脚本实例",
+    "09-常见问题解答",
+    "10-其他资料",
+    "11-HeroM2兼容/01-功能操作命令",
+    "11-HeroM2兼容/02-脚本检测命令",
+    "11-HeroM2兼容/03-特殊触发功能",
+    "11-HeroM2兼容/04-游戏功能详解"
+  ],
+  "documents": [
+    {
+      "path": "docs/02-数据库配置/31类物品扩展设置.md",
+      "title": "31类物品扩展设置",
+      "category": "02-数据库配置",
+      "source": "31类物品扩展设置.htm",
+      "chars": 2011
+    },
+    {
+      "path": "docs/02-数据库配置/Magic详解.md",
+      "title": "Magic详解",
+      "category": "02-数据库配置",
+      "source": "Magic详解[!].htm",
+      "chars": 606
+    },
+    {
+      "path": "docs/02-数据库配置/Monster详解.md",
+      "title": "Monster详解",
+      "category": "02-数据库配置",
+      "source": "Monster详解.html",
+      "chars": 2705
+    },
+    {
+      "path": "docs/02-数据库配置/Stditem详解.md",
+      "title": "Stditem详解",
+      "category": "02-数据库配置",
+      "source": "Stditem详解.html",
+      "chars": 3651
+    },
+    {
+      "path": "docs/02-数据库配置/可探索怪设置.md",
+      "title": "可探索怪设置",
+      "category": "02-数据库配置",
+      "source": "可探索怪物设置.htm",
+      "chars": 220
+    },
+    {
+      "path": "docs/02-数据库配置/天生元素字段说明.md",
+      "title": "天生元素字段说明",
+      "category": "02-数据库配置",
+      "source": "天生元素设置.htm",
+      "chars": 805
+    },
+    {
+      "path": "docs/02-数据库配置/新怪物数据[!].md",
+      "title": "新怪物数据[!]",
+      "category": "02-数据库配置",
+      "source": "新怪物数据[!].htm",
+      "chars": 11998
+    },
+    {
+      "path": "docs/02-数据库配置/物品代码表.md",
+      "title": "物品代码表",
+      "category": "02-数据库配置",
+      "source": "物品代码表[!].htm",
+      "chars": 3519
+    },
+    {
+      "path": "docs/02-数据库配置/物品所需条件设置.md",
+      "title": "物品所需条件设置",
+      "category": "02-数据库配置",
+      "source": "物品所需条件设置.htm",
+      "chars": 1045
+    },
+    {
+      "path": "docs/02-数据库配置/物品极口属性详解.md",
+      "title": "物品极口属性详解",
+      "category": "02-数据库配置",
+      "source": "物品极品属性详解.htm",
+      "chars": 1054
+    },
+    {
+      "path": "docs/02-数据库配置/为了减少使用自定义特效以及方便添加装备，对衣服武器的外观特效进行DB数据库支持.md",
+      "title": "为了减少使用自定义特效以及方便添加装备，对衣服武器的外观特效进行DB数据库支持",
+      "category": "02-数据库配置",
+      "source": "特效计算.htm",
+      "chars": 4238
+    },
+    {
+      "path": "docs/02-数据库配置/特殊物品设置[!].md",
+      "title": "特殊物品设置[!]",
+      "category": "02-数据库配置",
+      "source": "特殊物品设置[!].htm",
+      "chars": 3616
+    },
+    {
+      "path": "docs/02-数据库配置/盾牌相关资料.md",
+      "title": "盾牌相关资料",
+      "category": "02-数据库配置",
+      "source": "盾牌.htm",
+      "chars": 150
+    },
+    {
+      "path": "docs/02-数据库配置/祝福罐、魔族指令设置.md",
+      "title": "祝福罐、魔族指令设置",
+      "category": "02-数据库配置",
+      "source": "祝福罐、魔族指令.html",
+      "chars": 684
+    },
+    {
+      "path": "docs/02-数据库配置/自定义连击素材.md",
+      "title": "自定义连击素材",
+      "category": "02-数据库配置",
+      "source": "自定义(DIY)连击素材.htm",
+      "chars": 1688
+    },
+    {
+      "path": "docs/02-数据库配置/自定义回城石.md",
+      "title": "自定义回城石",
+      "category": "02-数据库配置",
+      "source": "自定义回城石.html",
+      "chars": 366
+    },
+    {
+      "path": "docs/03-功能操作命令/GetPlayInfo命令使用大全.md",
+      "title": "GetPlayInfo命令使用大全",
+      "category": "03-功能操作命令",
+      "source": "GetPlayInfo命令使用大全.html",
+      "chars": 5999
+    },
+    {
+      "path": "docs/03-功能操作命令/HumanHP调整血值.md",
+      "title": "HumanHP调整血值",
+      "category": "03-功能操作命令",
+      "source": "HumanHP调整血量.html",
+      "chars": 675
+    },
+    {
+      "path": "docs/03-功能操作命令/个人定时器.md",
+      "title": "个人定时器",
+      "category": "03-功能操作命令",
+      "source": "个人定时器.htm",
+      "chars": 507
+    },
+    {
+      "path": "docs/03-功能操作命令/从指定文件中删除字符串[!].md",
+      "title": "从指定文件中删除字符串[!]",
+      "category": "03-功能操作命令",
+      "source": "从指定文件中删除字符串[!].htm",
+      "chars": 835
+    },
+    {
+      "path": "docs/03-功能操作命令/从文件中随机取文本.md",
+      "title": "从文件中随机取文本",
+      "category": "03-功能操作命令",
+      "source": "从文件中随机取文本.htm",
+      "chars": 333
+    },
+    {
+      "path": "docs/03-功能操作命令/使用外置默认浏览器打开网站.md",
+      "title": "使用外置默认浏览器打开网站",
+      "category": "03-功能操作命令",
+      "source": "使用外置默认浏览器打开网站.html",
+      "chars": 94
+    },
+    {
+      "path": "docs/03-功能操作命令/修改地图内怪物属性,修改怪物属性(在原属性的基本上进行加减操作）.md",
+      "title": "修改地图内怪物属性,修改怪物属性(在原属性的基本上进行加减操作）",
+      "category": "03-功能操作命令",
+      "source": "修改地图内怪物属性.html",
+      "chars": 1467
+    },
+    {
+      "path": "docs/03-功能操作命令/修改宝宝外观.md",
+      "title": "修改宝宝外观",
+      "category": "03-功能操作命令",
+      "source": "修改宝宝外观.htm",
+      "chars": 224
+    },
+    {
+      "path": "docs/03-功能操作命令/修改物品的附加属性值.md",
+      "title": "修改物品的附加属性值",
+      "category": "03-功能操作命令",
+      "source": "修改物品的附加属性值.html",
+      "chars": 1258
+    },
+    {
+      "path": "docs/03-功能操作命令/修改装备内观和外观命令.md",
+      "title": "修改装备内观和外观命令",
+      "category": "03-功能操作命令",
+      "source": "修改装备内外观命令.html",
+      "chars": 144
+    },
+    {
+      "path": "docs/03-功能操作命令/假人自动练功[!].md",
+      "title": "假人自动练功[!]",
+      "category": "03-功能操作命令",
+      "source": "假人自动练功[!].htm",
+      "chars": 166
+    },
+    {
+      "path": "docs/03-功能操作命令/关闭NPC大对话框.md",
+      "title": "关闭NPC大对话框",
+      "category": "03-功能操作命令",
+      "source": "关闭NPC大对话框.html",
+      "chars": 151
+    },
+    {
+      "path": "docs/03-功能操作命令/关闭自定义NPC对话框.md",
+      "title": "关闭自定义NPC对话框",
+      "category": "03-功能操作命令",
+      "source": "关闭自定义NPC对话框.htm",
+      "chars": 108
+    },
+    {
+      "path": "docs/03-功能操作命令/减少合击怒气恢复间隔.md",
+      "title": "减少合击怒气恢复间隔",
+      "category": "03-功能操作命令",
+      "source": "减少怒气增加间隔.htm",
+      "chars": 284
+    },
+    {
+      "path": "docs/03-功能操作命令/减少技能冷却时间.md",
+      "title": "减少技能冷却时间",
+      "category": "03-功能操作命令",
+      "source": "减少技能冷却时间.html",
+      "chars": 875
+    },
+    {
+      "path": "docs/03-功能操作命令/分割字符串[!].md",
+      "title": "分割字符串[!]",
+      "category": "03-功能操作命令",
+      "source": "分割字符串.html",
+      "chars": 189
+    },
+    {
+      "path": "docs/03-功能操作命令/创建文件.md",
+      "title": "创建文件",
+      "category": "03-功能操作命令",
+      "source": "创建文件.html",
+      "chars": 98
+    },
+    {
+      "path": "docs/03-功能操作命令/删除一个NPC.md",
+      "title": "删除一个NPC",
+      "category": "03-功能操作命令",
+      "source": "删除一个NPC.htm",
+      "chars": 175
+    },
+    {
+      "path": "docs/03-功能操作命令/删除人物IP在列表中.md",
+      "title": "删除人物IP在列表中",
+      "category": "03-功能操作命令",
+      "source": "删除人物IP在列表中.html",
+      "chars": 150
+    },
+    {
+      "path": "docs/03-功能操作命令/删除人物名在列表中.md",
+      "title": "删除人物名在列表中",
+      "category": "03-功能操作命令",
+      "source": "删除人物在列表中.html",
+      "chars": 154
+    },
+    {
+      "path": "docs/03-功能操作命令/删除人物帐号在列表中.md",
+      "title": "删除人物帐号在列表中",
+      "category": "03-功能操作命令",
+      "source": "删除人物帐号在列表中.html",
+      "chars": 165
+    },
+    {
+      "path": "docs/03-功能操作命令/删除会员人物及时间.md",
+      "title": "删除会员人物及时间",
+      "category": "03-功能操作命令",
+      "source": "删除会员人物及时间.htm",
+      "chars": 268
+    },
+    {
+      "path": "docs/03-功能操作命令/删除列表行会名.md",
+      "title": "删除列表行会名",
+      "category": "03-功能操作命令",
+      "source": "删除列表行会名.htm",
+      "chars": 151
+    },
+    {
+      "path": "docs/03-功能操作命令/删除所有技能.md",
+      "title": "删除所有技能",
+      "category": "03-功能操作命令",
+      "source": "删除所有技能.htm",
+      "chars": 469
+    },
+    {
+      "path": "docs/03-功能操作命令/删除指定技能.md",
+      "title": "删除指定技能",
+      "category": "03-功能操作命令",
+      "source": "删除指定技能.htm",
+      "chars": 470
+    },
+    {
+      "path": "docs/03-功能操作命令/删除文本指定行.md",
+      "title": "删除文本指定行",
+      "category": "03-功能操作命令",
+      "source": "删除文本指定行.html",
+      "chars": 126
+    },
+    {
+      "path": "docs/03-功能操作命令/删除行会成员.md",
+      "title": "删除行会成员",
+      "category": "03-功能操作命令",
+      "source": "删除行会成员.htm",
+      "chars": 243
+    },
+    {
+      "path": "docs/03-功能操作命令/删除非本职业的所有技能.md",
+      "title": "删除非本职业的所有技能",
+      "category": "03-功能操作命令",
+      "source": "删除非本职业的所有技能.htm",
+      "chars": 469
+    },
+    {
+      "path": "docs/03-功能操作命令/Mongen.txt 增加刷怪触发.md",
+      "title": "Mongen.txt 增加刷怪触发",
+      "category": "03-功能操作命令",
+      "source": "刷怪触发.htm",
+      "chars": 538
+    },
+    {
+      "path": "docs/03-功能操作命令/刷新当前装备属性到客户端.md",
+      "title": "刷新当前装备属性到客户端",
+      "category": "03-功能操作命令",
+      "source": "刷新当前装备属性到客户端.html",
+      "chars": 622
+    },
+    {
+      "path": "docs/03-功能操作命令/加入会员人物及时间.md",
+      "title": "加入会员人物及时间",
+      "category": "03-功能操作命令",
+      "source": "加入会员人物及时间.htm",
+      "chars": 270
+    },
+    {
+      "path": "docs/03-功能操作命令/千里传音[!].md",
+      "title": "千里传音[!]",
+      "category": "03-功能操作命令",
+      "source": "千里传音脚本.html",
+      "chars": 869
+    },
+    {
+      "path": "docs/03-功能操作命令/发送屏幕中间大字体信息.md",
+      "title": "发送屏幕中间大字体信息",
+      "category": "03-功能操作命令",
+      "source": "发送屏幕中间大字体信息[!].htm",
+      "chars": 2779
+    },
+    {
+      "path": "docs/03-功能操作命令/发送屏幕滚动信息.md",
+      "title": "发送屏幕滚动信息",
+      "category": "03-功能操作命令",
+      "source": "发送屏幕滚动信息.html",
+      "chars": 691
+    },
+    {
+      "path": "docs/03-功能操作命令/发送文字信息.md",
+      "title": "发送文字信息",
+      "category": "03-功能操作命令",
+      "source": "发送文字信息.htm",
+      "chars": 594
+    },
+    {
+      "path": "docs/03-功能操作命令/取下镶嵌宝石命令.md",
+      "title": "取下镶嵌宝石命令",
+      "category": "03-功能操作命令",
+      "source": "取下镶嵌宝石命令.htm",
+      "chars": 55
+    },
+    {
+      "path": "docs/03-功能操作命令/取字符串长度[!].md",
+      "title": "取字符串长度[!]",
+      "category": "03-功能操作命令",
+      "source": "取字符串长度.html",
+      "chars": 141
+    },
+    {
+      "path": "docs/03-功能操作命令/取对面角色人物名.md",
+      "title": "取对面角色人物名",
+      "category": "03-功能操作命令",
+      "source": "取对面角色人物名.html",
+      "chars": 201
+    },
+    {
+      "path": "docs/03-功能操作命令/取指定排行榜指定排名的玩家名字和检测人物在指定排行榜中的名次.md",
+      "title": "取指定排行榜指定排名的玩家名字和检测人物在指定排行榜中的名次",
+      "category": "03-功能操作命令",
+      "source": "取指定排行榜指定排名的玩家名字 和检测人物在指定排行榜中的名次.htm",
+      "chars": 1024
+    },
+    {
+      "path": "docs/03-功能操作命令/变量传递说明.md",
+      "title": "变量传递说明",
+      "category": "03-功能操作命令",
+      "source": "变量传递说明.html",
+      "chars": 550
+    },
+    {
+      "path": "docs/03-功能操作命令/召唤指定怪物为宝宝.md",
+      "title": "召唤指定怪物为宝宝",
+      "category": "03-功能操作命令",
+      "source": "召唤指定怪物为宝宝.htm",
+      "chars": 501
+    },
+    {
+      "path": "docs/03-功能操作命令/在地图上播放魔法效果[!].md",
+      "title": "在地图上播放魔法效果[!]",
+      "category": "03-功能操作命令",
+      "source": "在地图上播放魔法效果[!].htm",
+      "chars": 664
+    },
+    {
+      "path": "docs/03-功能操作命令/在地图上放物品[!].md",
+      "title": "在地图上放物品[!]",
+      "category": "03-功能操作命令",
+      "source": "在地图上放物品[!].htm",
+      "chars": 291
+    },
+    {
+      "path": "docs/03-功能操作命令/在屏幕上播放魔法效果.md",
+      "title": "在屏幕上播放魔法效果",
+      "category": "03-功能操作命令",
+      "source": "在屏幕上播放魔法效果[!].htm",
+      "chars": 782
+    },
+    {
+      "path": "docs/03-功能操作命令/在文件的固定行替换写入内容[!].md",
+      "title": "在文件的固定行替换写入内容[!]",
+      "category": "03-功能操作命令",
+      "source": "在文件的固定行替换写入内容.html",
+      "chars": 195
+    },
+    {
+      "path": "docs/03-功能操作命令/在文件的指定行插入一行内容[!].md",
+      "title": "在文件的指定行插入一行内容[!]",
+      "category": "03-功能操作命令",
+      "source": "在文件的指定行插入一行内容.html",
+      "chars": 176
+    },
+    {
+      "path": "docs/03-功能操作命令/在登陆器里浏览网页.md",
+      "title": "在登陆器里浏览网页",
+      "category": "03-功能操作命令",
+      "source": "在登陆器里浏览网页.htm",
+      "chars": 220
+    },
+    {
+      "path": "docs/03-功能操作命令/在线修改宝宝名字[!].md",
+      "title": "在线修改宝宝名字[!]",
+      "category": "03-功能操作命令",
+      "source": "在线修改宝宝名字.html",
+      "chars": 294
+    },
+    {
+      "path": "docs/03-功能操作命令/在线命令弹出菜单功能.md",
+      "title": "在线命令弹出菜单功能",
+      "category": "03-功能操作命令",
+      "source": "在线弹出菜单脚本.htm",
+      "chars": 146
+    },
+    {
+      "path": "docs/03-功能操作命令/在线泡经验.md",
+      "title": "在线泡经验",
+      "category": "03-功能操作命令",
+      "source": "在线泡经验.htm",
+      "chars": 527
+    },
+    {
+      "path": "docs/03-功能操作命令/增加人物IP在列表中.md",
+      "title": "增加人物IP在列表中",
+      "category": "03-功能操作命令",
+      "source": "增加人物IP在列表中.html",
+      "chars": 150
+    },
+    {
+      "path": "docs/03-功能操作命令/增加人物名在列表中.md",
+      "title": "增加人物名在列表中",
+      "category": "03-功能操作命令",
+      "source": "增加人物名在列表中.htm",
+      "chars": 155
+    },
+    {
+      "path": "docs/03-功能操作命令/增加人物帐号在列表中.md",
+      "title": "增加人物帐号在列表中",
+      "category": "03-功能操作命令",
+      "source": "增加人物帐号在列表中.html",
+      "chars": 165
+    },
+    {
+      "path": "docs/03-功能操作命令/增加会员时间[!].md",
+      "title": "增加会员时间[!]",
+      "category": "03-功能操作命令",
+      "source": "增加会员时间[!].htm",
+      "chars": 401
+    },
+    {
+      "path": "docs/03-功能操作命令/替换字符命令[!].md",
+      "title": "替换字符命令[!]",
+      "category": "03-功能操作命令",
+      "source": "增加替换字符命令.html",
+      "chars": 185
+    },
+    {
+      "path": "docs/03-功能操作命令/增加附加伤害效果.md",
+      "title": "增加附加伤害效果",
+      "category": "03-功能操作命令",
+      "source": "增加附加伤害效果.html",
+      "chars": 1331
+    },
+    {
+      "path": "docs/03-功能操作命令/复制文件.md",
+      "title": "复制文件",
+      "category": "03-功能操作命令",
+      "source": "复制文件.html",
+      "chars": 139
+    },
+    {
+      "path": "docs/03-功能操作命令/复活人物.md",
+      "title": "复活人物",
+      "category": "03-功能操作命令",
+      "source": "复活人物.html",
+      "chars": 42
+    },
+    {
+      "path": "docs/03-功能操作命令/复活命令.md",
+      "title": "复活命令",
+      "category": "03-功能操作命令",
+      "source": "复活命令.html",
+      "chars": 327
+    },
+    {
+      "path": "docs/03-功能操作命令/字符串分隔命令.md",
+      "title": "字符串分隔命令",
+      "category": "03-功能操作命令",
+      "source": "字符串分隔命令.html",
+      "chars": 1203
+    },
+    {
+      "path": "docs/03-功能操作命令/字符检测命令GetStringPosEX.md",
+      "title": "字符检测命令GetStringPosEX",
+      "category": "03-功能操作命令",
+      "source": "字符检测命令.htm",
+      "chars": 844
+    },
+    {
+      "path": "docs/03-功能操作命令/宝宝攻击触发.md",
+      "title": "宝宝攻击触发",
+      "category": "03-功能操作命令",
+      "source": "宝宝攻击触发.html",
+      "chars": 1250
+    },
+    {
+      "path": "docs/03-功能操作命令/宝宝死亡触发.md",
+      "title": "宝宝死亡触发",
+      "category": "03-功能操作命令",
+      "source": "宝宝死亡触发.html",
+      "chars": 97
+    },
+    {
+      "path": "docs/03-功能操作命令/杀死宝宝.md",
+      "title": "杀死宝宝",
+      "category": "03-功能操作命令",
+      "source": "将人物的宝宝全部杀死.htm",
+      "chars": 233
+    },
+    {
+      "path": "docs/03-功能操作命令/延时移动.md",
+      "title": "延时移动",
+      "category": "03-功能操作命令",
+      "source": "延时移动.htm",
+      "chars": 274
+    },
+    {
+      "path": "docs/03-功能操作命令/开启第四个连击技能的命令[!].md",
+      "title": "开启第四个连击技能的命令[!]",
+      "category": "03-功能操作命令",
+      "source": "开启第四个连击技能[!].htm",
+      "chars": 274
+    },
+    {
+      "path": "docs/03-功能操作命令/强行捡起他人打怪爆出未到冷却时间的物品[!].md",
+      "title": "强行捡起他人打怪爆出未到冷却时间的物品[!]",
+      "category": "03-功能操作命令",
+      "source": "强行捡起他人打怪爆出未到冷却时间的物品.htm",
+      "chars": 298
+    },
+    {
+      "path": "docs/03-功能操作命令/循环脚本运行次数设置.md",
+      "title": "循环脚本运行次数设置",
+      "category": "03-功能操作命令",
+      "source": "循环脚本运行次数设置.html",
+      "chars": 426
+    },
+    {
+      "path": "docs/03-功能操作命令/战斗力计算.md",
+      "title": "战斗力计算",
+      "category": "03-功能操作命令",
+      "source": "战斗力计算.html",
+      "chars": 263
+    },
+    {
+      "path": "docs/03-功能操作命令/所有行会同时攻城.md",
+      "title": "所有行会同时攻城",
+      "category": "03-功能操作命令",
+      "source": "所有行会同时攻城.htm",
+      "chars": 96
+    },
+    {
+      "path": "docs/03-功能操作命令/打开NPC大对话框[!].md",
+      "title": "打开NPC大对话框[!]",
+      "category": "03-功能操作命令",
+      "source": "打开NPC大对话框[!].htm",
+      "chars": 188
+    },
+    {
+      "path": "docs/03-功能操作命令/打开OK对话框.md",
+      "title": "打开OK对话框",
+      "category": "03-功能操作命令",
+      "source": "打开OK对话框.html",
+      "chars": 338
+    },
+    {
+      "path": "docs/03-功能操作命令/打开摆摊（个人商店）脚本命令.md",
+      "title": "打开摆摊（个人商店）脚本命令",
+      "category": "03-功能操作命令",
+      "source": "打开摆摊界面脚本命令.html",
+      "chars": 52
+    },
+    {
+      "path": "docs/03-功能操作命令/打开自定义NPC对话框.md",
+      "title": "打开自定义NPC对话框",
+      "category": "03-功能操作命令",
+      "source": "打开自定义NPC对话框.htm",
+      "chars": 182
+    },
+    {
+      "path": "docs/03-功能操作命令/扩展MessageBox.md",
+      "title": "扩展MessageBox",
+      "category": "03-功能操作命令",
+      "source": "扩展MessageBox.html",
+      "chars": 111
+    },
+    {
+      "path": "docs/03-功能操作命令/扩展MOVR使用方法.md",
+      "title": "扩展MOVR使用方法",
+      "category": "03-功能操作命令",
+      "source": "扩展Movr.htm",
+      "chars": 318
+    },
+    {
+      "path": "docs/03-功能操作命令/技能转换 技能替换[!].md",
+      "title": "技能转换 技能替换[!]",
+      "category": "03-功能操作命令",
+      "source": "技能转换.html",
+      "chars": 154
+    },
+    {
+      "path": "docs/03-功能操作命令/把人物加入行会.md",
+      "title": "把人物加入行会",
+      "category": "03-功能操作命令",
+      "source": "把人物加入行会.html",
+      "chars": 88
+    },
+    {
+      "path": "docs/03-功能操作命令/把行会加入攻城列表.md",
+      "title": "把行会加入攻城列表",
+      "category": "03-功能操作命令",
+      "source": "把行会加入攻城列表.html",
+      "chars": 133
+    },
+    {
+      "path": "docs/03-功能操作命令/挂机命令[!].md",
+      "title": "挂机命令[!]",
+      "category": "03-功能操作命令",
+      "source": "挂机命令[!].htm",
+      "chars": 81
+    },
+    {
+      "path": "docs/03-功能操作命令/按地图列表移动.md",
+      "title": "按地图列表移动",
+      "category": "03-功能操作命令",
+      "source": "按地图列表移动.htm",
+      "chars": 318
+    },
+    {
+      "path": "docs/03-功能操作命令/Npc命令捡物同步内挂物品，同步内挂捡取.md",
+      "title": "Npc命令捡物同步内挂物品，同步内挂捡取",
+      "category": "03-功能操作命令",
+      "source": "捡物同步内挂配置.htmL",
+      "chars": 852
+    },
+    {
+      "path": "docs/03-功能操作命令/播放人物效果.md",
+      "title": "播放人物效果",
+      "category": "03-功能操作命令",
+      "source": "播放人物效果.html",
+      "chars": 746
+    },
+    {
+      "path": "docs/03-功能操作命令/播放网络MP3.md",
+      "title": "播放网络MP3",
+      "category": "03-功能操作命令",
+      "source": "播放网络MP3.htm",
+      "chars": 223
+    },
+    {
+      "path": "docs/03-功能操作命令/播放音乐.md",
+      "title": "播放音乐",
+      "category": "03-功能操作命令",
+      "source": "播放音乐.html",
+      "chars": 418
+    },
+    {
+      "path": "docs/03-功能操作命令/收回OK框中的物品.md",
+      "title": "收回OK框中的物品",
+      "category": "03-功能操作命令",
+      "source": "收回OK框中的物品.html",
+      "chars": 57
+    },
+    {
+      "path": "docs/03-功能操作命令/收回玩家英雄脚本命令.md",
+      "title": "收回玩家英雄脚本命令",
+      "category": "03-功能操作命令",
+      "source": "收回英雄.htm",
+      "chars": 65
+    },
+    {
+      "path": "docs/03-功能操作命令/改变人物状态.md",
+      "title": "改变人物状态",
+      "category": "03-功能操作命令",
+      "source": "改变人物状态.html",
+      "chars": 466
+    },
+    {
+      "path": "docs/03-功能操作命令/改变宝宝名字颜色.md",
+      "title": "改变宝宝名字颜色",
+      "category": "03-功能操作命令",
+      "source": "改变宝宝名字颜色.htm",
+      "chars": 57
+    },
+    {
+      "path": "docs/03-功能操作命令/新游戏点[!].md",
+      "title": "新游戏点[!]",
+      "category": "03-功能操作命令",
+      "source": "新游戏点[!].htm",
+      "chars": 96
+    },
+    {
+      "path": "docs/03-功能操作命令/显示倒计时信息提示.md",
+      "title": "显示倒计时信息提示",
+      "category": "03-功能操作命令",
+      "source": "显示倒计时信息提示.html",
+      "chars": 228
+    },
+    {
+      "path": "docs/03-功能操作命令/暂停刷怪,停止刷怪.md",
+      "title": "暂停刷怪,停止刷怪",
+      "category": "03-功能操作命令",
+      "source": "暂停刷怪.html",
+      "chars": 218
+    },
+    {
+      "path": "docs/03-功能操作命令/更换性别.md",
+      "title": "更换性别",
+      "category": "03-功能操作命令",
+      "source": "更换性别.htm",
+      "chars": 246
+    },
+    {
+      "path": "docs/03-功能操作命令/转换职业.md",
+      "title": "转换职业",
+      "category": "03-功能操作命令",
+      "source": "更换职业.htm",
+      "chars": 577
+    },
+    {
+      "path": "docs/03-功能操作命令/更改头发类型.md",
+      "title": "更改头发类型",
+      "category": "03-功能操作命令",
+      "source": "更改头发类型.htm",
+      "chars": 146
+    },
+    {
+      "path": "docs/03-功能操作命令/更改人物颜色.md",
+      "title": "更改人物颜色",
+      "category": "03-功能操作命令",
+      "source": "更新名称颜色.htm",
+      "chars": 228
+    },
+    {
+      "path": "docs/03-功能操作命令/替换行会掌门,改变行会的掌门人.md",
+      "title": "替换行会掌门,改变行会的掌门人",
+      "category": "03-功能操作命令",
+      "source": "替换行会掌门.htm",
+      "chars": 130
+    },
+    {
+      "path": "docs/03-功能操作命令/角色打怪爆出物品自动拾取，角色打怪爆出物品范围捡起[!].md",
+      "title": "角色打怪爆出物品自动拾取，角色打怪爆出物品范围捡起[!]",
+      "category": "03-功能操作命令",
+      "source": "杀怪爆出物品自动范围内捡起.htm",
+      "chars": 1304
+    },
+    {
+      "path": "docs/03-功能操作命令/杀死人物.md",
+      "title": "杀死人物",
+      "category": "03-功能操作命令",
+      "source": "杀死人物.htm",
+      "chars": 336
+    },
+    {
+      "path": "docs/03-功能操作命令/杀死人物的宝宝.md",
+      "title": "杀死人物的宝宝",
+      "category": "03-功能操作命令",
+      "source": "杀死人物的宝宝.htm",
+      "chars": 113
+    },
+    {
+      "path": "docs/03-功能操作命令/检查自己是不是别人的徒弟.md",
+      "title": "检查自己是不是别人的徒弟",
+      "category": "03-功能操作命令",
+      "source": "检查自己是不是别人的徒弟.html",
+      "chars": 185
+    },
+    {
+      "path": "docs/03-功能操作命令/检测伴侣是否在线和同一地图.md",
+      "title": "检测伴侣是否在线和同一地图",
+      "category": "03-功能操作命令",
+      "source": "检测夫妻伴侣是否在线.html",
+      "chars": 433
+    },
+    {
+      "path": "docs/03-功能操作命令/检测对面是否为自己的徒弟.md",
+      "title": "检测对面是否为自己的徒弟",
+      "category": "03-功能操作命令",
+      "source": "检测对面是否为自己的徒弟.html",
+      "chars": 225
+    },
+    {
+      "path": "docs/03-功能操作命令/检查对面的人物是不是自己的师傅.md",
+      "title": "检查对面的人物是不是自己的师傅",
+      "category": "03-功能操作命令",
+      "source": "检测对面的人物是不是自己的师傅..html",
+      "chars": 190
+    },
+    {
+      "path": "docs/03-功能操作命令/检测对面的有没有徒弟.md",
+      "title": "检测对面的有没有徒弟",
+      "category": "03-功能操作命令",
+      "source": "检测对面的有没有徒弟.html",
+      "chars": 189
+    },
+    {
+      "path": "docs/03-功能操作命令/检测师傅（或徒弟）是否在XXX地图.md",
+      "title": "检测师傅（或徒弟）是否在XXX地图",
+      "category": "03-功能操作命令",
+      "source": "检测师傅（或徒弟）是否在XXX地图.html",
+      "chars": 209
+    },
+    {
+      "path": "docs/03-功能操作命令/检测师傅（或徒弟）是否在线.md",
+      "title": "检测师傅（或徒弟）是否在线",
+      "category": "03-功能操作命令",
+      "source": "检测师傅（或徒弟）是否在线上.html",
+      "chars": 214
+    },
+    {
+      "path": "docs/03-功能操作命令/检测当前玩家登陆的分辨率.md",
+      "title": "检测当前玩家登陆的分辨率",
+      "category": "03-功能操作命令",
+      "source": "检测当前玩家登陆的分辨率.htm",
+      "chars": 275
+    },
+    {
+      "path": "docs/03-功能操作命令/检测文件中是否包含字符串.md",
+      "title": "检测文件中是否包含字符串",
+      "category": "03-功能操作命令",
+      "source": "检测文件中是否包含字符串.htm",
+      "chars": 453
+    },
+    {
+      "path": "docs/03-功能操作命令/检测自己是否是师傅.md",
+      "title": "检测自己是否是师傅",
+      "category": "03-功能操作命令",
+      "source": "检测自己是否是师傅.html",
+      "chars": 170
+    },
+    {
+      "path": "docs/03-功能操作命令/检测自己是否是徒弟.md",
+      "title": "检测自己是否是徒弟",
+      "category": "03-功能操作命令",
+      "source": "检测自己是否是徒弟.html",
+      "chars": 174
+    },
+    {
+      "path": "docs/03-功能操作命令/检测身上指定装备名字 获取looks保存到变量.md",
+      "title": "检测身上指定装备名字 获取looks保存到变量",
+      "category": "03-功能操作命令",
+      "source": "检测身上指定装备名字 获取looks保存到变量.html",
+      "chars": 171
+    },
+    {
+      "path": "docs/03-功能操作命令/永久增加人物属性点(按属性分配点分配).md",
+      "title": "永久增加人物属性点(按属性分配点分配)",
+      "category": "03-功能操作命令",
+      "source": "永久增加人物属性点.htm",
+      "chars": 838
+    },
+    {
+      "path": "docs/03-功能操作命令/添加行会成员.md",
+      "title": "添加行会成员",
+      "category": "03-功能操作命令",
+      "source": "添加行会成员.htm",
+      "chars": 234
+    },
+    {
+      "path": "docs/03-功能操作命令/清掉地图某范围的怪物[!].md",
+      "title": "清掉地图某范围的怪物[!]",
+      "category": "03-功能操作命令",
+      "source": "清掉地图某范围的怪物命令.html",
+      "chars": 202
+    },
+    {
+      "path": "docs/03-功能操作命令/清空变量[!].md",
+      "title": "清空变量[!]",
+      "category": "03-功能操作命令",
+      "source": "清空变量.html",
+      "chars": 96
+    },
+    {
+      "path": "docs/03-功能操作命令/清空P变量.md",
+      "title": "清空P变量",
+      "category": "03-功能操作命令",
+      "source": "清空角色P变量.html",
+      "chars": 110
+    },
+    {
+      "path": "docs/03-功能操作命令/清除SendCenterMsg DelayGoto.md",
+      "title": "清除SendCenterMsg DelayGoto",
+      "category": "03-功能操作命令",
+      "source": "清除SendCenterMsg DelayGoto.html",
+      "chars": 129
+    },
+    {
+      "path": "docs/03-功能操作命令/清除人物的仓库密码.md",
+      "title": "清除人物的仓库密码",
+      "category": "03-功能操作命令",
+      "source": "清除人物的仓库密码.htm",
+      "chars": 224
+    },
+    {
+      "path": "docs/03-功能操作命令/清除人物转生.md",
+      "title": "清除人物转生",
+      "category": "03-功能操作命令",
+      "source": "清除人物转生数据.htm",
+      "chars": 188
+    },
+    {
+      "path": "docs/03-功能操作命令/清除列表内容.md",
+      "title": "清除列表内容",
+      "category": "03-功能操作命令",
+      "source": "清除列表内容.htm",
+      "chars": 296
+    },
+    {
+      "path": "docs/03-功能操作命令/清除地图物品.md",
+      "title": "清除地图物品",
+      "category": "03-功能操作命令",
+      "source": "清除地图物品.htm",
+      "chars": 444
+    },
+    {
+      "path": "docs/03-功能操作命令/清除延时移动.md",
+      "title": "清除延时移动",
+      "category": "03-功能操作命令",
+      "source": "清除延时移动.htm",
+      "chars": 177
+    },
+    {
+      "path": "docs/03-功能操作命令/清除地图中的怪物.md",
+      "title": "清除地图中的怪物",
+      "category": "03-功能操作命令",
+      "source": "清除指定地图里的怪物.htm",
+      "chars": 207
+    },
+    {
+      "path": "docs/03-功能操作命令/清除结婚信息.md",
+      "title": "清除结婚信息",
+      "category": "03-功能操作命令",
+      "source": "清除结婚信息.htm",
+      "chars": 117
+    },
+    {
+      "path": "docs/03-功能操作命令/清除英雄转生.md",
+      "title": "清除英雄转生",
+      "category": "03-功能操作命令",
+      "source": "清除英雄转生数据.htm",
+      "chars": 190
+    },
+    {
+      "path": "docs/03-功能操作命令/物品标记，装备标记，物品标识，装备标识、.md",
+      "title": "物品标记，装备标记，物品标识，装备标识、",
+      "category": "03-功能操作命令",
+      "source": "物品标记.htm",
+      "chars": 732
+    },
+    {
+      "path": "docs/03-功能操作命令/特修装备.md",
+      "title": "特修装备",
+      "category": "03-功能操作命令",
+      "source": "特修装备[!].htm",
+      "chars": 505
+    },
+    {
+      "path": "docs/03-功能操作命令/百分比计算命令[!].md",
+      "title": "百分比计算命令[!]",
+      "category": "03-功能操作命令",
+      "source": "百分比计算命令.html",
+      "chars": 123
+    },
+    {
+      "path": "docs/03-功能操作命令/禁止登录列表.md",
+      "title": "禁止登录列表",
+      "category": "03-功能操作命令",
+      "source": "禁止登录列表.htm",
+      "chars": 922
+    },
+    {
+      "path": "docs/03-功能操作命令/秒杀保护.md",
+      "title": "秒杀保护",
+      "category": "03-功能操作命令",
+      "source": "秒杀保护.htm",
+      "chars": 508
+    },
+    {
+      "path": "docs/03-功能操作命令/称号系统.md",
+      "title": "称号系统",
+      "category": "03-功能操作命令",
+      "source": "称号系统.htm",
+      "chars": 331
+    },
+    {
+      "path": "docs/03-功能操作命令/移动到回城点.md",
+      "title": "移动到回城点",
+      "category": "03-功能操作命令",
+      "source": "移动到回城点.htm",
+      "chars": 89
+    },
+    {
+      "path": "docs/03-功能操作命令/练习技能.md",
+      "title": "练习技能",
+      "category": "03-功能操作命令",
+      "source": "练习技能.htm",
+      "chars": 465
+    },
+    {
+      "path": "docs/03-功能操作命令/绑定给予的装备进行命令操作.md",
+      "title": "绑定给予的装备进行命令操作",
+      "category": "03-功能操作命令",
+      "source": "绑定给予的装备进行命令操作.html",
+      "chars": 724
+    },
+    {
+      "path": "docs/03-功能操作命令/增加隐藏元素属性.md",
+      "title": "增加隐藏元素属性",
+      "category": "03-功能操作命令",
+      "source": "给人物增加隐藏元素属性.html",
+      "chars": 718
+    },
+    {
+      "path": "docs/03-功能操作命令/给人物指定爆率文件命令.md",
+      "title": "给人物指定爆率文件命令",
+      "category": "03-功能操作命令",
+      "source": "给人物指定爆率文件命令.html",
+      "chars": 215
+    },
+    {
+      "path": "docs/03-功能操作命令/播放地图魔法特效（仅自己可见）.md",
+      "title": "播放地图魔法特效（仅自己可见）",
+      "category": "03-功能操作命令",
+      "source": "给自己播放地图魔法特效.html",
+      "chars": 524
+    },
+    {
+      "path": "docs/03-功能操作命令/编组地图传送.md",
+      "title": "编组地图传送",
+      "category": "03-功能操作命令",
+      "source": "编组地图传送[!].htm",
+      "chars": 337
+    },
+    {
+      "path": "docs/03-功能操作命令/编组地图随机传送.md",
+      "title": "编组地图随机传送",
+      "category": "03-功能操作命令",
+      "source": "编组地图随机传送[!].htm",
+      "chars": 310
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本刷怪.md",
+      "title": "脚本刷怪",
+      "category": "03-功能操作命令",
+      "source": "脚本刷怪.htm",
+      "chars": 667
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本命令释放技能(无动作施展).md",
+      "title": "脚本命令释放技能(无动作施展)",
+      "category": "03-功能操作命令",
+      "source": "脚本命令施展技能(无动作).htm",
+      "chars": 697
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本命令释放技能.md",
+      "title": "脚本命令释放技能",
+      "category": "03-功能操作命令",
+      "source": "脚本命令施展技能.htm",
+      "chars": 552
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本命令给物品镶嵌宝石.md",
+      "title": "脚本命令给物品镶嵌宝石",
+      "category": "03-功能操作命令",
+      "source": "脚本命令给物品镶嵌宝石.htm",
+      "chars": 438
+    },
+    {
+      "path": "docs/03-功能操作命令/自动穿取装备.md",
+      "title": "自动穿取装备",
+      "category": "03-功能操作命令",
+      "source": "自动穿取装备.htm",
+      "chars": 918
+    },
+    {
+      "path": "docs/03-功能操作命令/自动穿装备和取装备.md",
+      "title": "自动穿装备和取装备",
+      "category": "03-功能操作命令",
+      "source": "自动穿装备和取装备[!].htm",
+      "chars": 275
+    },
+    {
+      "path": "docs/03-功能操作命令/自动行走.md",
+      "title": "自动行走",
+      "category": "03-功能操作命令",
+      "source": "自动行走.html",
+      "chars": 107
+    },
+    {
+      "path": "docs/03-功能操作命令/自定义OK框[!].md",
+      "title": "自定义OK框[!]",
+      "category": "03-功能操作命令",
+      "source": "自定义OK框.htm",
+      "chars": 2906
+    },
+    {
+      "path": "docs/03-功能操作命令/自定义UI中自定义按钮使用,预留按钮.md",
+      "title": "自定义UI中自定义按钮使用,预留按钮",
+      "category": "03-功能操作命令",
+      "source": "自定义UI中自定义按钮使用.html",
+      "chars": 851
+    },
+    {
+      "path": "docs/03-功能操作命令/自定义变量功能.md",
+      "title": "自定义变量功能",
+      "category": "03-功能操作命令",
+      "source": "自定义变量功能.htm",
+      "chars": 1767
+    },
+    {
+      "path": "docs/03-功能操作命令/自定义变量按变量值大小排序[!].md",
+      "title": "自定义变量按变量值大小排序[!]",
+      "category": "03-功能操作命令",
+      "source": "自定义变量按变量值大小排序.htm",
+      "chars": 332
+    },
+    {
+      "path": "docs/03-功能操作命令/致命一击触发，暴击触发.md",
+      "title": "致命一击触发，暴击触发",
+      "category": "03-功能操作命令",
+      "source": "致命一击触发.htm",
+      "chars": 477
+    },
+    {
+      "path": "docs/03-功能操作命令/英雄宝宝攻击触发.md",
+      "title": "英雄宝宝攻击触发",
+      "category": "03-功能操作命令",
+      "source": "英雄宝宝攻击触发.html",
+      "chars": 590
+    },
+    {
+      "path": "docs/03-功能操作命令/英雄相关命令支持与示范，英雄捡起触发.md",
+      "title": "英雄相关命令支持与示范，英雄捡起触发",
+      "category": "03-功能操作命令",
+      "source": "英雄相关操作命令增加与捡起触发示范.html",
+      "chars": 788
+    },
+    {
+      "path": "docs/03-功能操作命令/获取人物全身星星数量[!].md",
+      "title": "获取人物全身星星数量[!]",
+      "category": "03-功能操作命令",
+      "source": "获取人物全身星星数量.html",
+      "chars": 287
+    },
+    {
+      "path": "docs/03-功能操作命令/获取地图中某怪物的坐标[!].md",
+      "title": "获取地图中某怪物的坐标[!]",
+      "category": "03-功能操作命令",
+      "source": "获取地图中某怪物的坐标.html",
+      "chars": 188
+    },
+    {
+      "path": "docs/03-功能操作命令/获取对面人物的名字.md",
+      "title": "获取对面人物的名字",
+      "category": "03-功能操作命令",
+      "source": "获取对面人物的名字.htm",
+      "chars": 111
+    },
+    {
+      "path": "docs/03-功能操作命令/获取怪物原始各项参数.md",
+      "title": "获取怪物原始各项参数",
+      "category": "03-功能操作命令",
+      "source": "获取怪物原始各项参数.html",
+      "chars": 114
+    },
+    {
+      "path": "docs/03-功能操作命令/获取技能信息命令.md",
+      "title": "获取技能信息命令",
+      "category": "03-功能操作命令",
+      "source": "获取技能信息命令.html",
+      "chars": 320
+    },
+    {
+      "path": "docs/03-功能操作命令/获取技能快捷键、设置技能快捷键.md",
+      "title": "获取技能快捷键、设置技能快捷键",
+      "category": "03-功能操作命令",
+      "source": "获取技能快捷键.html",
+      "chars": 377
+    },
+    {
+      "path": "docs/03-功能操作命令/获取文本字符.md",
+      "title": "获取文本字符",
+      "category": "03-功能操作命令",
+      "source": "获取文本字符.htm",
+      "chars": 31
+    },
+    {
+      "path": "docs/03-功能操作命令/获取某地图人物数量 [!].md",
+      "title": "获取某地图人物数量 [!]",
+      "category": "03-功能操作命令",
+      "source": "获取某地图人物数量 .html",
+      "chars": 205
+    },
+    {
+      "path": "docs/03-功能操作命令/获取某地图怪物数量 [!].md",
+      "title": "获取某地图怪物数量 [!]",
+      "category": "03-功能操作命令",
+      "source": "获取某地图怪物数量 .html",
+      "chars": 200
+    },
+    {
+      "path": "docs/03-功能操作命令/获取物品原始各项数据库字段值参数.md",
+      "title": "获取物品原始各项数据库字段值参数",
+      "category": "03-功能操作命令",
+      "source": "获取物品原始各项参数.html",
+      "chars": 3268
+    },
+    {
+      "path": "docs/03-功能操作命令/获取背包中某物品的数量[!].md",
+      "title": "获取背包中某物品的数量[!]",
+      "category": "03-功能操作命令",
+      "source": "获取背包中某物品的数量.html",
+      "chars": 169
+    },
+    {
+      "path": "docs/03-功能操作命令/将人物行会名加入列表.md",
+      "title": "将人物行会名加入列表",
+      "category": "03-功能操作命令",
+      "source": "行会名加入列表.htm",
+      "chars": 153
+    },
+    {
+      "path": "docs/03-功能操作命令/行会地图传送.md",
+      "title": "行会地图传送",
+      "category": "03-功能操作命令",
+      "source": "行会地图传送.htm",
+      "chars": 109
+    },
+    {
+      "path": "docs/03-功能操作命令/行会地图随机传送.md",
+      "title": "行会地图随机传送",
+      "category": "03-功能操作命令",
+      "source": "行会地图随机传送.htm",
+      "chars": 87
+    },
+    {
+      "path": "docs/03-功能操作命令/行会建设相关.md",
+      "title": "行会建设相关",
+      "category": "03-功能操作命令",
+      "source": "行会建设相关.htm",
+      "chars": 536
+    },
+    {
+      "path": "docs/03-功能操作命令/装备属性升级.md",
+      "title": "装备属性升级",
+      "category": "03-功能操作命令",
+      "source": "装备升级功能.htm",
+      "chars": 1905
+    },
+    {
+      "path": "docs/03-功能操作命令/装备名称自定义系统.md",
+      "title": "装备名称自定义系统",
+      "category": "03-功能操作命令",
+      "source": "装备名称自定义系统.htm",
+      "chars": 1500
+    },
+    {
+      "path": "docs/03-功能操作命令/装备投保功能.md",
+      "title": "装备投保功能",
+      "category": "03-功能操作命令",
+      "source": "装备投保功能.htm",
+      "chars": 635
+    },
+    {
+      "path": "docs/03-功能操作命令/角色变身怪物、人物变身.md",
+      "title": "角色变身怪物、人物变身",
+      "category": "03-功能操作命令",
+      "source": "角色变身怪物.html",
+      "chars": 192
+    },
+    {
+      "path": "docs/03-功能操作命令/解除英雄强制和平模式限制.md",
+      "title": "解除英雄强制和平模式限制",
+      "category": "03-功能操作命令",
+      "source": "解除英雄强制和平模式限制.htm",
+      "chars": 286
+    },
+    {
+      "path": "docs/03-功能操作命令/设置人物当前权限.md",
+      "title": "设置人物当前权限",
+      "category": "03-功能操作命令",
+      "source": "设置人物当前权限.htm",
+      "chars": 193
+    },
+    {
+      "path": "docs/03-功能操作命令/设置人物当前模式.md",
+      "title": "设置人物当前模式",
+      "category": "03-功能操作命令",
+      "source": "设置人物当前模式.htm",
+      "chars": 258
+    },
+    {
+      "path": "docs/03-功能操作命令/修改宝宝属性.md",
+      "title": "修改宝宝属性",
+      "category": "03-功能操作命令",
+      "source": "设置修改宝宝属性.htm",
+      "chars": 1275
+    },
+    {
+      "path": "docs/03-功能操作命令/设置技能伤害防御[!].md",
+      "title": "设置技能伤害防御[!]",
+      "category": "03-功能操作命令",
+      "source": "设置技能伤害和防御.html",
+      "chars": 587
+    },
+    {
+      "path": "docs/03-功能操作命令/设置攻击力倍数[!].md",
+      "title": "设置攻击力倍数[!]",
+      "category": "03-功能操作命令",
+      "source": "设置攻击力倍数[!].htm",
+      "chars": 880
+    },
+    {
+      "path": "docs/03-功能操作命令/设置杀怪经验倍数.md",
+      "title": "设置杀怪经验倍数",
+      "category": "03-功能操作命令",
+      "source": "设置杀怪经验倍数.htm",
+      "chars": 585
+    },
+    {
+      "path": "docs/03-功能操作命令/设置离线挂机.md",
+      "title": "设置离线挂机",
+      "category": "03-功能操作命令",
+      "source": "设置离线挂机.htm",
+      "chars": 226
+    },
+    {
+      "path": "docs/03-功能操作命令/设置被怪物攻击时伤害吸收.md",
+      "title": "设置被怪物攻击时伤害吸收",
+      "category": "03-功能操作命令",
+      "source": "设置被怪物攻击时伤害吸收.htm",
+      "chars": 287
+    },
+    {
+      "path": "docs/03-功能操作命令/设置装备发光特效.md",
+      "title": "设置装备发光特效",
+      "category": "03-功能操作命令",
+      "source": "设置装备发光特效.html",
+      "chars": 568
+    },
+    {
+      "path": "docs/03-功能操作命令/调整暴击威力.md",
+      "title": "调整暴击威力",
+      "category": "03-功能操作命令",
+      "source": "设置调整暴击威力命令.html",
+      "chars": 104
+    },
+    {
+      "path": "docs/03-功能操作命令/读写配置项,读写ini配置项.md",
+      "title": "读写配置项,读写ini配置项",
+      "category": "03-功能操作命令",
+      "source": "读写配置项.html",
+      "chars": 1396
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本调整人物PK点.md",
+      "title": "脚本调整人物PK点",
+      "category": "03-功能操作命令",
+      "source": "调整人物PK点数.htm",
+      "chars": 660
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物会员等级.md",
+      "title": "调整人物会员等级",
+      "category": "03-功能操作命令",
+      "source": "调整人物会员等级.htm",
+      "chars": 611
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物会员类型.md",
+      "title": "调整人物会员类型",
+      "category": "03-功能操作命令",
+      "source": "调整人物会员类型.htm",
+      "chars": 604
+    },
+    {
+      "path": "docs/03-功能操作命令/调整声望点.md",
+      "title": "调整声望点",
+      "category": "03-功能操作命令",
+      "source": "调整人物声望点.htm",
+      "chars": 589
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物属性.md",
+      "title": "调整人物属性",
+      "category": "03-功能操作命令",
+      "source": "调整人物属性.html",
+      "chars": 583
+    },
+    {
+      "path": "docs/03-功能操作命令/调整属性点.md",
+      "title": "调整属性点",
+      "category": "03-功能操作命令",
+      "source": "调整人物属性点.htm",
+      "chars": 514
+    },
+    {
+      "path": "docs/03-功能操作命令/永久调整人物属性值.md",
+      "title": "永久调整人物属性值",
+      "category": "03-功能操作命令",
+      "source": "调整人物永久属性.html",
+      "chars": 538
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物游戏点数.md",
+      "title": "调整人物游戏点数",
+      "category": "03-功能操作命令",
+      "source": "调整人物游戏点.htm",
+      "chars": 574
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物的荣誉值[!].md",
+      "title": "调整人物的荣誉值[!]",
+      "category": "03-功能操作命令",
+      "source": "调整人物的荣誉值[!].htm",
+      "chars": 134
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本控制人物等级.md",
+      "title": "脚本控制人物等级",
+      "category": "03-功能操作命令",
+      "source": "调整人物等级.htm",
+      "chars": 578
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本调整升级经验.md",
+      "title": "脚本调整升级经验",
+      "category": "03-功能操作命令",
+      "source": "调整人物经验.htm",
+      "chars": 884
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物金币数量.md",
+      "title": "调整人物金币数量",
+      "category": "03-功能操作命令",
+      "source": "调整人物金币数量.htm",
+      "chars": 126
+    },
+    {
+      "path": "docs/03-功能操作命令/调整修改下次攻击伤害比例.md",
+      "title": "调整修改下次攻击伤害比例",
+      "category": "03-功能操作命令",
+      "source": "调整修改下次攻击伤害比例.html",
+      "chars": 312
+    },
+    {
+      "path": "docs/03-功能操作命令/调整宝宝等级.md",
+      "title": "调整宝宝等级",
+      "category": "03-功能操作命令",
+      "source": "调整宝宝等级.htm",
+      "chars": 322
+    },
+    {
+      "path": "docs/03-功能操作命令/调整合击怒气值.md",
+      "title": "调整合击怒气值",
+      "category": "03-功能操作命令",
+      "source": "调整怒气值.htm",
+      "chars": 298
+    },
+    {
+      "path": "docs/03-功能操作命令/调整技能点数.md",
+      "title": "调整技能点数",
+      "category": "03-功能操作命令",
+      "source": "调整技能点数.htm",
+      "chars": 757
+    },
+    {
+      "path": "docs/03-功能操作命令/调整技能等级(扩展).md",
+      "title": "调整技能等级(扩展)",
+      "category": "03-功能操作命令",
+      "source": "调整技能等级.htm",
+      "chars": 1208
+    },
+    {
+      "path": "docs/03-功能操作命令/调整暴击威力倍数命令.md",
+      "title": "调整暴击威力倍数命令",
+      "category": "03-功能操作命令",
+      "source": "调整暴击威力倍数命令.htm",
+      "chars": 133
+    },
+    {
+      "path": "docs/03-功能操作命令/游戏币(元宝)控制.md",
+      "title": "游戏币(元宝)控制",
+      "category": "03-功能操作命令",
+      "source": "调整游戏币.htm",
+      "chars": 1527
+    },
+    {
+      "path": "docs/03-功能操作命令/调整游戏速度.md",
+      "title": "调整游戏速度",
+      "category": "03-功能操作命令",
+      "source": "调整游戏速度.html",
+      "chars": 465
+    },
+    {
+      "path": "docs/03-功能操作命令/调整物品名字颜色.md",
+      "title": "调整物品名字颜色",
+      "category": "03-功能操作命令",
+      "source": "调整物品名字颜色.htm",
+      "chars": 199
+    },
+    {
+      "path": "docs/03-功能操作命令/调整物品新增属性.md",
+      "title": "调整物品新增属性",
+      "category": "03-功能操作命令",
+      "source": "调整物品新增属性.html",
+      "chars": 1759
+    },
+    {
+      "path": "docs/03-功能操作命令/调整物品新增属性_1.md",
+      "title": "调整物品新增属性",
+      "category": "03-功能操作命令",
+      "source": "调整物品新增属性扩展.html",
+      "chars": 1038
+    },
+    {
+      "path": "docs/03-功能操作命令/调整背包负重.md",
+      "title": "调整背包负重",
+      "category": "03-功能操作命令",
+      "source": "调整背包负重.html",
+      "chars": 121
+    },
+    {
+      "path": "docs/03-功能操作命令/调整英雄职业[!].md",
+      "title": "调整英雄职业[!]",
+      "category": "03-功能操作命令",
+      "source": "调整英雄职业[!].htm",
+      "chars": 123
+    },
+    {
+      "path": "docs/03-功能操作命令/调整行会人数上限[!].md",
+      "title": "调整行会人数上限[!]",
+      "category": "03-功能操作命令",
+      "source": "调整行会人数上限[!].htm",
+      "chars": 265
+    },
+    {
+      "path": "docs/03-功能操作命令/调整行会可以容纳最多成员.md",
+      "title": "调整行会可以容纳最多成员",
+      "category": "03-功能操作命令",
+      "source": "调整行会可以容纳最多成员.html",
+      "chars": 160
+    },
+    {
+      "path": "docs/03-功能操作命令/调整装备升级次数[!].md",
+      "title": "调整装备升级次数[!]",
+      "category": "03-功能操作命令",
+      "source": "调整装备升级次数[!].htm",
+      "chars": 283
+    },
+    {
+      "path": "docs/03-功能操作命令/调整金刚石数量.md",
+      "title": "调整金刚石数量",
+      "category": "03-功能操作命令",
+      "source": "调整金刚石数量.htm",
+      "chars": 467
+    },
+    {
+      "path": "docs/03-功能操作命令/调用安全区特效命令.md",
+      "title": "调用安全区特效命令",
+      "category": "03-功能操作命令",
+      "source": "调用安全区特效命令.html",
+      "chars": 145
+    },
+    {
+      "path": "docs/03-功能操作命令/验证码功能说明.md",
+      "title": "验证码功能说明",
+      "category": "03-功能操作命令",
+      "source": "调用验证码系统.htm",
+      "chars": 179
+    },
+    {
+      "path": "docs/03-功能操作命令/踢人物下线.md",
+      "title": "踢人物下线",
+      "category": "03-功能操作命令",
+      "source": "踢人物下线.htm",
+      "chars": 346
+    },
+    {
+      "path": "docs/03-功能操作命令/踢除服务器所有人物.md",
+      "title": "踢除服务器所有人物",
+      "category": "03-功能操作命令",
+      "source": "踢除所有在线人物.htm",
+      "chars": 213
+    },
+    {
+      "path": "docs/03-功能操作命令/踢除服务器挂机人物.md",
+      "title": "踢除服务器挂机人物",
+      "category": "03-功能操作命令",
+      "source": "踢除所有挂机人物.htm",
+      "chars": 219
+    },
+    {
+      "path": "docs/03-功能操作命令/过滤全服提示信息.md",
+      "title": "过滤全服提示信息",
+      "category": "03-功能操作命令",
+      "source": "过滤全服提示信息.html",
+      "chars": 877
+    },
+    {
+      "path": "docs/03-功能操作命令/返回OK框中的物品.md",
+      "title": "返回OK框中的物品",
+      "category": "03-功能操作命令",
+      "source": "返回OK框中的物品.html",
+      "chars": 73
+    },
+    {
+      "path": "docs/03-功能操作命令/通过脚本建立一个NPC 动态创建NPC.md",
+      "title": "通过脚本建立一个NPC 动态创建NPC",
+      "category": "03-功能操作命令",
+      "source": "通过脚本建立一个NPC.htm",
+      "chars": 454
+    },
+    {
+      "path": "docs/03-功能操作命令/重新分配人物附加属性点.md",
+      "title": "重新分配人物附加属性点",
+      "category": "03-功能操作命令",
+      "source": "重新分配人物附加属性点.htm",
+      "chars": 180
+    },
+    {
+      "path": "docs/03-功能操作命令/取得随机字符串(2020新).md",
+      "title": "取得随机字符串(2020新)",
+      "category": "03-功能操作命令",
+      "source": "随机字符串.htm",
+      "chars": 490
+    },
+    {
+      "path": "docs/03-功能操作命令/高等级杀怪经验不变.md",
+      "title": "高等级杀怪经验不变",
+      "category": "03-功能操作命令",
+      "source": "高等级杀怪经验不变.html",
+      "chars": 97
+    },
+    {
+      "path": "docs/04-脚本检测命令/or检测命令.md",
+      "title": "or检测命令",
+      "category": "04-脚本检测命令",
+      "source": "or检测命令.html",
+      "chars": 114
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查登录帐号与IP是否匹配.md",
+      "title": "检查登录帐号与IP是否匹配",
+      "category": "04-脚本检测命令",
+      "source": "可以检查登录帐号与IP是否匹配.htm",
+      "chars": 522
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测坐标范围.md",
+      "title": "检测坐标范围",
+      "category": "04-脚本检测命令",
+      "source": "坐标范围检测.html",
+      "chars": 212
+    },
+    {
+      "path": "docs/04-脚本检测命令/扩展check支持批量检测.md",
+      "title": "扩展check支持批量检测",
+      "category": "04-脚本检测命令",
+      "source": "扩展check支持批量检测.htm",
+      "chars": 147
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查一个地图内人数.md",
+      "title": "检查一个地图内人数",
+      "category": "04-脚本检测命令",
+      "source": "检查一个地图内的人物数量.htm",
+      "chars": 263
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查地图怪物数量.md",
+      "title": "检查地图怪物数量",
+      "category": "04-脚本检测命令",
+      "source": "检查一个地图内的怪物数量.htm",
+      "chars": 270
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查一个范围内怪物数.md",
+      "title": "检查一个范围内怪物数",
+      "category": "04-脚本检测命令",
+      "source": "检查一个坐标范围内怪物数量.htm",
+      "chars": 307
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物HP值.md",
+      "title": "检查人物HP值",
+      "category": "04-脚本检测命令",
+      "source": "检查人物HP值.htm",
+      "chars": 184
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物MP值.md",
+      "title": "检查人物MP值",
+      "category": "04-脚本检测命令",
+      "source": "检查人物MP值.htm",
+      "chars": 192
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物名称是否与IP匹配.md",
+      "title": "检查人物名称是否与IP匹配",
+      "category": "04-脚本检测命令",
+      "source": "检查人物名称与IP是否匹配.htm",
+      "chars": 499
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物在列表中的位置.md",
+      "title": "检查人物在列表中的位置",
+      "category": "04-脚本检测命令",
+      "source": "检查人物在列表中的位置.htm",
+      "chars": 338
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物声望点.md",
+      "title": "检查人物声望点",
+      "category": "04-脚本检测命令",
+      "source": "检查人物声望点.htm",
+      "chars": 696
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物技能(扩展).md",
+      "title": "检查人物技能(扩展)",
+      "category": "04-脚本检测命令",
+      "source": "检查人物技能.htm",
+      "chars": 895
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物攻击力.md",
+      "title": "检查人物攻击力",
+      "category": "04-脚本检测命令",
+      "source": "检查人物攻击力.htm",
+      "chars": 187
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否为管理员.md",
+      "title": "检查人物是否为管理员",
+      "category": "04-脚本检测命令",
+      "source": "检查人物是否为管理员.htm",
+      "chars": 206
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否付费.md",
+      "title": "检查人物是否付费",
+      "category": "04-脚本检测命令",
+      "source": "检查人物是否付费.htm",
+      "chars": 36
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否在攻城区域[!].md",
+      "title": "检查人物是否在攻城区域[!]",
+      "category": "04-脚本检测命令",
+      "source": "检查人物是否在攻城区域[!].htm",
+      "chars": 72
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物登录IP.md",
+      "title": "检查人物登录IP",
+      "category": "04-脚本检测命令",
+      "source": "检查人物登录IP.htm",
+      "chars": 243
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物登录帐号.md",
+      "title": "检查人物登录帐号",
+      "category": "04-脚本检测命令",
+      "source": "检查人物登录帐号.htm",
+      "chars": 260
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物的会员等级.md",
+      "title": "检查人物的会员等级",
+      "category": "04-脚本检测命令",
+      "source": "检查人物的会员等级.htm",
+      "chars": 714
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物的会员类型.md",
+      "title": "检查人物的会员类型",
+      "category": "04-脚本检测命令",
+      "source": "检查人物的会员类型.htm",
+      "chars": 675
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物的游戏点数.md",
+      "title": "检查人物的游戏点数",
+      "category": "04-脚本检测命令",
+      "source": "检查人物的游戏点数.htm",
+      "chars": 478
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物的转生等级.md",
+      "title": "检查人物的转生等级",
+      "category": "04-脚本检测命令",
+      "source": "检查人物的转生等级.htm",
+      "chars": 714
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物背包空格数.md",
+      "title": "检查人物背包空格数",
+      "category": "04-脚本检测命令",
+      "source": "检查人物背包空格数.htm",
+      "chars": 178
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物身上装备类型.md",
+      "title": "检查人物身上装备类型",
+      "category": "04-脚本检测命令",
+      "source": "检查人物身上戴物品类型.htm",
+      "chars": 525
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物身上指定位置是否戴物品.md",
+      "title": "检查人物身上指定位置是否戴物品",
+      "category": "04-脚本检测命令",
+      "source": "检查人物身上指定位置是否戴物品.htm",
+      "chars": 574
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物道术.md",
+      "title": "检查人物道术",
+      "category": "04-脚本检测命令",
+      "source": "检查人物道术.htm",
+      "chars": 171
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物附加属性点数.md",
+      "title": "检查人物附加属性点数",
+      "category": "04-脚本检测命令",
+      "source": "检查人物附加属性点数.htm",
+      "chars": 169
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物魔法力.md",
+      "title": "检查人物魔法力",
+      "category": "04-脚本检测命令",
+      "source": "检查人物魔法力.htm",
+      "chars": 190
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查会员时间.md",
+      "title": "检查会员时间",
+      "category": "04-脚本检测命令",
+      "source": "检查会员时间.htm",
+      "chars": 281
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查地图怪物数量_1.md",
+      "title": "检查地图怪物数量",
+      "category": "04-脚本检测命令",
+      "source": "检查地图内的怪物数量 .htm",
+      "chars": 546
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查城堡战争天数.md",
+      "title": "检查城堡战争天数",
+      "category": "04-脚本检测命令",
+      "source": "检查城堡战争天数.htm",
+      "chars": 244
+    },
+    {
+      "path": "docs/04-脚本检测命令/字符串比较处理.md",
+      "title": "字符串比较处理",
+      "category": "04-脚本检测命令",
+      "source": "检查字符串是否包涵在另外一个字符串中.htm",
+      "chars": 541
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查字符串是否在指定文件中[!].md",
+      "title": "检查字符串是否在指定文件中[!]",
+      "category": "04-脚本检测命令",
+      "source": "检查字符串是否在指定文件中[!].htm",
+      "chars": 2608
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查宝宝数量.md",
+      "title": "检查宝宝数量",
+      "category": "04-脚本检测命令",
+      "source": "检查宝宝的数量.htm",
+      "chars": 1054
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查宝宝最高等级.md",
+      "title": "检查宝宝最高等级",
+      "category": "04-脚本检测命令",
+      "source": "检查宝宝的等级.htm",
+      "chars": 651
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查对面人物的性别.md",
+      "title": "检查对面人物的性别",
+      "category": "04-脚本检测命令",
+      "source": "检查对面人物的性别.htm",
+      "chars": 432
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查对面人物的等级.md",
+      "title": "检查对面人物的等级",
+      "category": "04-脚本检测命令",
+      "source": "检查对面人物的等级.htm",
+      "chars": 719
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查对面人物站的位置.md",
+      "title": "检查对面人物站的位置",
+      "category": "04-脚本检测命令",
+      "source": "检查对面人物站的位置性别.htm",
+      "chars": 679
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物的游戏点数_1.md",
+      "title": "检查人物的游戏点数",
+      "category": "04-脚本检测命令",
+      "source": "检查当前人物身上有多少点数.htm",
+      "chars": 478
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查当前所在地图的名字.md",
+      "title": "检查当前所在地图的名字",
+      "category": "04-脚本检测命令",
+      "source": "检查当前所在地图的名字.htm",
+      "chars": 237
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查是否为组长.md",
+      "title": "检查是否为组长",
+      "category": "04-脚本检测命令",
+      "source": "检查是否为组长.htm",
+      "chars": 210
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查是否在某地图.md",
+      "title": "检查是否在某地图",
+      "category": "04-脚本检测命令",
+      "source": "检查是否在某地图.htm",
+      "chars": 25
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查城门状态.md",
+      "title": "检查城门状态",
+      "category": "04-脚本检测命令",
+      "source": "检查沙城门状态.htm",
+      "chars": 245
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查城堡占领天数.md",
+      "title": "检查城堡占领天数",
+      "category": "04-脚本检测命令",
+      "source": "检查沙巴克占领天数.htm",
+      "chars": 153
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物当前经验值.md",
+      "title": "检查人物当前经验值",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家当前经验值.htm",
+      "chars": 669
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否为新人.md",
+      "title": "检查人物是否为新人",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家是否为新人.htm",
+      "chars": 200
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否为沙城成员.md",
+      "title": "检查人物是否为沙城成员",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家是否为沙城成员.htm",
+      "chars": 185
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否为沙城城主.md",
+      "title": "检查人物是否为沙城城主",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家是否为沙城老大.htm",
+      "chars": 186
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否为行会掌门人.md",
+      "title": "检查人物是否为行会掌门人",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家是否为行会老大.htm",
+      "chars": 185
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物是否加入行会.md",
+      "title": "检查人物是否加入行会",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家是否加入行会.htm",
+      "chars": 181
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查人物等级（改进）.md",
+      "title": "检查人物等级（改进）",
+      "category": "04-脚本检测命令",
+      "source": "检查玩家等级.htm",
+      "chars": 666
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查行会名称.md",
+      "title": "检查行会名称",
+      "category": "04-脚本检测命令",
+      "source": "检查行会名称.htm",
+      "chars": 140
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查行会是否在列表中.md",
+      "title": "检查行会是否在列表中",
+      "category": "04-脚本检测命令",
+      "source": "检查行会是否在列表中.htm",
+      "chars": 189
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物PK值.md",
+      "title": "检测人物PK值",
+      "category": "04-脚本检测命令",
+      "source": "检测人物PK值.htm",
+      "chars": 235
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物在线时长[!].md",
+      "title": "检测人物在线时长[!]",
+      "category": "04-脚本检测命令",
+      "source": "检测人物在线时长[!].htm",
+      "chars": 218
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物宝宝名字[!].md",
+      "title": "检测人物宝宝名字[!]",
+      "category": "04-脚本检测命令",
+      "source": "检测人物宝宝名字[!].htm",
+      "chars": 246
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物幸运值.md",
+      "title": "检测人物幸运值",
+      "category": "04-脚本检测命令",
+      "source": "检测人物幸运值.htm",
+      "chars": 230
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物新增属性.md",
+      "title": "检测人物新增属性",
+      "category": "04-脚本检测命令",
+      "source": "检测人物新增属性.html",
+      "chars": 1558
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物是否佩带指定物品.md",
+      "title": "检测人物是否佩带指定物品",
+      "category": "04-脚本检测命令",
+      "source": "检测人物是否佩带指定物品.htm",
+      "chars": 513
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物是否挂机.md",
+      "title": "检测人物是否挂机",
+      "category": "04-脚本检测命令",
+      "source": "检测人物是否挂机.htm",
+      "chars": 31
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测人物荣誉.md",
+      "title": "检测人物荣誉",
+      "category": "04-脚本检测命令",
+      "source": "检测人物荣誉.html",
+      "chars": 96
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测会员剩余时间.md",
+      "title": "检测会员剩余时间",
+      "category": "04-脚本检测命令",
+      "source": "检测会员剩余时间.html",
+      "chars": 623
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测在安全区.md",
+      "title": "检测在安全区",
+      "category": "04-脚本检测命令",
+      "source": "检测在安全区.htm",
+      "chars": 19
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测地图坐标是否可以到达.md",
+      "title": "检测地图坐标是否可以到达",
+      "category": "04-脚本检测命令",
+      "source": "检测地图坐标是否可以到达.html",
+      "chars": 256
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测地图相同怪物数.md",
+      "title": "检测地图相同怪物数",
+      "category": "04-脚本检测命令",
+      "source": "检测地图相同怪物数.html",
+      "chars": 320
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测地图范围怪物数量.md",
+      "title": "检测地图范围怪物数量",
+      "category": "04-脚本检测命令",
+      "source": "检测地图范围怪物数量.html",
+      "chars": 286
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测当前目标类型.md",
+      "title": "检测当前目标类型",
+      "category": "04-脚本检测命令",
+      "source": "检测当前目标类型.html",
+      "chars": 332
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测技能修炼点数.md",
+      "title": "检测技能修炼点数",
+      "category": "04-脚本检测命令",
+      "source": "检测技能修炼点.htm",
+      "chars": 453
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测指定范围内的人物数量.md",
+      "title": "检测指定范围内的人物数量",
+      "category": "04-脚本检测命令",
+      "source": "检测指定范围内的人物数量.htm",
+      "chars": 56
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测是不是在摆摊.md",
+      "title": "检测是不是在摆摊",
+      "category": "04-脚本检测命令",
+      "source": "检测是不是在摆摊.html",
+      "chars": 108
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测骑马状态.md",
+      "title": "检测骑马状态",
+      "category": "04-脚本检测命令",
+      "source": "检测是否在骑马状态.htm",
+      "chars": 76
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测是否正在攻城.md",
+      "title": "检测是否正在攻城",
+      "category": "04-脚本检测命令",
+      "source": "检测是否正在攻城.html",
+      "chars": 90
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测是否进入攻城的范围.md",
+      "title": "检测是否进入攻城的范围",
+      "category": "04-脚本检测命令",
+      "source": "检测是否进入攻城的范围.html",
+      "chars": 102
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测杀人者是人物还是怪物.md",
+      "title": "检测杀人者是人物还是怪物",
+      "category": "04-脚本检测命令",
+      "source": "检测杀人者是人物还是怪物.htm",
+      "chars": 833
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测物品的附加属性值.md",
+      "title": "检测物品的附加属性值",
+      "category": "04-脚本检测命令",
+      "source": "检测物品的附加属性值[!].htm",
+      "chars": 1078
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测玩家是否在线.md",
+      "title": "检测玩家是否在线",
+      "category": "04-脚本检测命令",
+      "source": "检测玩家是否在线.htm",
+      "chars": 203
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测组队人数[!].md",
+      "title": "检测组队人数[!]",
+      "category": "04-脚本检测命令",
+      "source": "检测组队人数[!].htm",
+      "chars": 225
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测背包是否有指定物品[!].md",
+      "title": "检测背包是否有指定物品[!]",
+      "category": "04-脚本检测命令",
+      "source": "检测背包是否有指定物品.htm",
+      "chars": 374
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测行会可以容纳多少成员.md",
+      "title": "检测行会可以容纳多少成员",
+      "category": "04-脚本检测命令",
+      "source": "检测行会可以容纳多少成员.html",
+      "chars": 161
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测被自己杀死宝宝的名字.md",
+      "title": "检测被自己杀死宝宝的名字",
+      "category": "04-脚本检测命令",
+      "source": "检测被自己杀死宝宝的名字[!].htm",
+      "chars": 104
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测装备名字颜色.md",
+      "title": "检测装备名字颜色",
+      "category": "04-脚本检测命令",
+      "source": "检测装备名字颜色.htm",
+      "chars": 179
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测装备星星数量.md",
+      "title": "检测装备星星数量",
+      "category": "04-脚本检测命令",
+      "source": "检测装备星星数量.htm",
+      "chars": 672
+    },
+    {
+      "path": "docs/04-脚本检测命令/检查金刚石数量.md",
+      "title": "检查金刚石数量",
+      "category": "04-脚本检测命令",
+      "source": "检测金刚石数量.htm",
+      "chars": 885
+    },
+    {
+      "path": "docs/04-脚本检测命令/脚本检测命令取反NOT[!].md",
+      "title": "脚本检测命令取反NOT[!]",
+      "category": "04-脚本检测命令",
+      "source": "脚本检测命令取反NOT[!].htm",
+      "chars": 441
+    },
+    {
+      "path": "docs/04-脚本检测命令/行会成员人数.md",
+      "title": "行会成员人数",
+      "category": "04-脚本检测命令",
+      "source": "行会成员人数.htm",
+      "chars": 116
+    },
+    {
+      "path": "docs/05-特殊触发功能/GOTOLABEL触发[!].md",
+      "title": "GOTOLABEL触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "GOTOLABEL触发[!].htm",
+      "chars": 929
+    },
+    {
+      "path": "docs/05-特殊触发功能/个人商店名称过滤触发.md",
+      "title": "个人商店名称过滤触发",
+      "category": "05-特殊触发功能",
+      "source": "个人商店名字过滤触发.htm",
+      "chars": 104
+    },
+    {
+      "path": "docs/05-特殊触发功能/个人商店和人物摆摊.md",
+      "title": "个人商店和人物摆摊",
+      "category": "05-特殊触发功能",
+      "source": "个人商店和人物摆摊[!].htm",
+      "chars": 1429
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物升级触发.md",
+      "title": "人物升级触发",
+      "category": "05-特殊触发功能",
+      "source": "人物升级触发.htm",
+      "chars": 147
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物和英雄属性发生变更时触发QF脚本[!].md",
+      "title": "人物和英雄属性发生变更时触发QF脚本[!]",
+      "category": "05-特殊触发功能",
+      "source": "人物和英雄属性发生变更时触发QF脚本.html",
+      "chars": 249
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物大退触发.md",
+      "title": "人物大退触发",
+      "category": "05-特殊触发功能",
+      "source": "人物大退触发.htm",
+      "chars": 21
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物小退触发.md",
+      "title": "人物小退触发",
+      "category": "05-特殊触发功能",
+      "source": "人物小退触发.htm",
+      "chars": 26
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物当前获得经验触发.md",
+      "title": "人物当前获得经验触发",
+      "category": "05-特殊触发功能",
+      "source": "人物当前获得经验触发.htm",
+      "chars": 152
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物死亡.md",
+      "title": "人物死亡",
+      "category": "05-特殊触发功能",
+      "source": "人物死亡.htm",
+      "chars": 648
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物死亡时触发.md",
+      "title": "人物死亡时触发",
+      "category": "05-特殊触发功能",
+      "source": "人物死亡时触发.htm",
+      "chars": 565
+    },
+    {
+      "path": "docs/05-特殊触发功能/传送戒指传送触发、坐标传送触发[!].md",
+      "title": "传送戒指传送触发、坐标传送触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "传送戒指、坐标传送触发.htm",
+      "chars": 151
+    },
+    {
+      "path": "docs/05-特殊触发功能/切换地图触发[!].md",
+      "title": "切换地图触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "切换地图触发.HTM",
+      "chars": 143
+    },
+    {
+      "path": "docs/05-特殊触发功能/加入行会成员前触发,中止行会成员添加.md",
+      "title": "加入行会成员前触发,中止行会成员添加",
+      "category": "05-特殊触发功能",
+      "source": "加入行会成员前触发,中止行会成员添加.html",
+      "chars": 309
+    },
+    {
+      "path": "docs/05-特殊触发功能/取下身上物品时触发[!].md",
+      "title": "取下身上物品时触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "取下身上物品时触发.htm",
+      "chars": 448
+    },
+    {
+      "path": "docs/05-特殊触发功能/地图事件触发.md",
+      "title": "地图事件触发",
+      "category": "05-特殊触发功能",
+      "source": "地图事件触发.html",
+      "chars": 1520
+    },
+    {
+      "path": "docs/05-特殊触发功能/;地图魔法触发功能需要手动编辑Envir_UserData_MapMagicEvent.txt.md",
+      "title": ";地图魔法触发功能需要手动编辑Envir\\UserData\\MapMagicEvent.txt",
+      "category": "05-特殊触发功能",
+      "source": "地图魔法系统.htm",
+      "chars": 440
+    },
+    {
+      "path": "docs/05-特殊触发功能/外挂触发[!].md",
+      "title": "外挂触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "外挂触发[!].htm",
+      "chars": 107
+    },
+    {
+      "path": "docs/05-特殊触发功能/套装触发.md",
+      "title": "套装触发",
+      "category": "05-特殊触发功能",
+      "source": "套装触发.htm",
+      "chars": 984
+    },
+    {
+      "path": "docs/05-特殊触发功能/定时触发[!].md",
+      "title": "定时触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "定时触发[!].htm",
+      "chars": 26
+    },
+    {
+      "path": "docs/05-特殊触发功能/带上物品时触发[!].md",
+      "title": "带上物品时触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "带上物品时触发[!].htm",
+      "chars": 125
+    },
+    {
+      "path": "docs/05-特殊触发功能/指定人物触发字段.md",
+      "title": "指定人物触发字段",
+      "category": "05-特殊触发功能",
+      "source": "指定人物触发字段.htm",
+      "chars": 26
+    },
+    {
+      "path": "docs/05-特殊触发功能/指定人物触发字段[!].md",
+      "title": "指定人物触发字段[!]",
+      "category": "05-特殊触发功能",
+      "source": "指定人物触发字段[!].htm",
+      "chars": 26
+    },
+    {
+      "path": "docs/05-特殊触发功能/攻击触发.md",
+      "title": "攻击触发",
+      "category": "05-特殊触发功能",
+      "source": "攻击触发.html",
+      "chars": 2091
+    },
+    {
+      "path": "docs/05-特殊触发功能/物品捡取和丢弃触发.md",
+      "title": "物品捡取和丢弃触发",
+      "category": "05-特殊触发功能",
+      "source": "新物品捡取.htm",
+      "chars": 765
+    },
+    {
+      "path": "docs/05-特殊触发功能/杀死人物宝宝时触发[!].md",
+      "title": "杀死人物宝宝时触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "杀死人物宝宝时触发[!].htm",
+      "chars": 93
+    },
+    {
+      "path": "docs/05-特殊触发功能/杀死人物触发.md",
+      "title": "杀死人物触发",
+      "category": "05-特殊触发功能",
+      "source": "杀死人物触发.htm",
+      "chars": 56
+    },
+    {
+      "path": "docs/05-特殊触发功能/杀死怪物时触发,杀怪触发.md",
+      "title": "杀死怪物时触发,杀怪触发",
+      "category": "05-特殊触发功能",
+      "source": "杀死怪物触发[!].htm",
+      "chars": 349
+    },
+    {
+      "path": "docs/05-特殊触发功能/查看他人装备触发、查看装备触发[!].md",
+      "title": "查看他人装备触发、查看装备触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "查看他人装备触发.htm",
+      "chars": 404
+    },
+    {
+      "path": "docs/05-特殊触发功能/沙巴克行会触发[!].md",
+      "title": "沙巴克行会触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "沙巴克行会触发.htm",
+      "chars": 59
+    },
+    {
+      "path": "docs/05-特殊触发功能/物品捡取和丢弃触发_1.md",
+      "title": "物品捡取和丢弃触发",
+      "category": "05-特殊触发功能",
+      "source": "物品捡取.htm",
+      "chars": 617
+    },
+    {
+      "path": "docs/05-特殊触发功能/物品掉落触发.md",
+      "title": "物品掉落触发",
+      "category": "05-特殊触发功能",
+      "source": "物品掉落触发.html",
+      "chars": 548
+    },
+    {
+      "path": "docs/05-特殊触发功能/物品触发脚本功能.md",
+      "title": "物品触发脚本功能",
+      "category": "05-特殊触发功能",
+      "source": "物品触发功能脚本.htm",
+      "chars": 294
+    },
+    {
+      "path": "docs/05-特殊触发功能/界面帮助按钮触发.md",
+      "title": "界面帮助按钮触发",
+      "category": "05-特殊触发功能",
+      "source": "界面帮助按钮触发[!].htm",
+      "chars": 71
+    },
+    {
+      "path": "docs/05-特殊触发功能/组队时触发.md",
+      "title": "组队时触发",
+      "category": "05-特殊触发功能",
+      "source": "组队时触发[!].htm",
+      "chars": 716
+    },
+    {
+      "path": "docs/05-特殊触发功能/英雄上线触发.md",
+      "title": "英雄上线触发",
+      "category": "05-特殊触发功能",
+      "source": "英雄上线触发.htm",
+      "chars": 1509
+    },
+    {
+      "path": "docs/05-特殊触发功能/英雄升级触发.md",
+      "title": "英雄升级触发",
+      "category": "05-特殊触发功能",
+      "source": "英雄升级触发.htm",
+      "chars": 104
+    },
+    {
+      "path": "docs/05-特殊触发功能/英雄学习技能触发.md",
+      "title": "英雄学习技能触发",
+      "category": "05-特殊触发功能",
+      "source": "英雄学习技能触发.html",
+      "chars": 76
+    },
+    {
+      "path": "docs/05-特殊触发功能/英雄当前获得经验触发.md",
+      "title": "英雄当前获得经验触发",
+      "category": "05-特殊触发功能",
+      "source": "英雄当前获得经验触发.htm",
+      "chars": 106
+    },
+    {
+      "path": "docs/05-特殊触发功能/英雄死亡.md",
+      "title": "英雄死亡",
+      "category": "05-特殊触发功能",
+      "source": "英雄死亡触发.htm",
+      "chars": 461
+    },
+    {
+      "path": "docs/05-特殊触发功能/装备升级触发[!].md",
+      "title": "装备升级触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "装备升级触发[!].htm",
+      "chars": 95
+    },
+    {
+      "path": "docs/05-特殊触发功能/装备持久消失时触发.md",
+      "title": "装备持久消失时触发",
+      "category": "05-特殊触发功能",
+      "source": "装备持久消失时触发[!].htm",
+      "chars": 82
+    },
+    {
+      "path": "docs/05-特殊触发功能/购买个人商店物品触发.md",
+      "title": "购买个人商店物品触发",
+      "category": "05-特殊触发功能",
+      "source": "购买个人商店物品触发.html",
+      "chars": 471
+    },
+    {
+      "path": "docs/05-特殊触发功能/走路触发和跑步触发.md",
+      "title": "走路触发和跑步触发",
+      "category": "05-特殊触发功能",
+      "source": "走路或跑步触发.htm",
+      "chars": 153
+    },
+    {
+      "path": "docs/05-特殊触发功能/连击完成触发，连击释放触发.md",
+      "title": "连击完成触发，连击释放触发",
+      "category": "05-特殊触发功能",
+      "source": "连击完成触发.htm",
+      "chars": 83
+    },
+    {
+      "path": "docs/05-特殊触发功能/退出行会触发[!].md",
+      "title": "退出行会触发[!]",
+      "category": "05-特殊触发功能",
+      "source": "退出行会触发.htm",
+      "chars": 185
+    },
+    {
+      "path": "docs/05-特殊触发功能/限时装备到期(到时间)触发.md",
+      "title": "限时装备到期(到时间)触发",
+      "category": "05-特殊触发功能",
+      "source": "限时装备到期(到时间)触发.html",
+      "chars": 166
+    },
+    {
+      "path": "docs/06-游戏功能详解/47类右键准星物品说明.md",
+      "title": "47类右键准星物品说明",
+      "category": "06-游戏功能详解",
+      "source": "47类物品说明.html",
+      "chars": 1488
+    },
+    {
+      "path": "docs/06-游戏功能详解/Npc对话框动态进度条功能[!].md",
+      "title": "Npc对话框动态进度条功能[!]",
+      "category": "06-游戏功能详解",
+      "source": "Npc对话框动态进度条功能.htm",
+      "chars": 491
+    },
+    {
+      "path": "docs/06-游戏功能详解/NPC对话框提示文字命令，NPC界面上向上滚动提示信息.md",
+      "title": "NPC对话框提示文字命令，NPC界面上向上滚动提示信息",
+      "category": "06-游戏功能详解",
+      "source": "NPC对话框提示文字命令.htm",
+      "chars": 169
+    },
+    {
+      "path": "docs/06-游戏功能详解/NPC彩色字体设置[!].md",
+      "title": "NPC彩色字体设置[!]",
+      "category": "06-游戏功能详解",
+      "source": "NPC彩色字体[!].htm",
+      "chars": 346
+    },
+    {
+      "path": "docs/06-游戏功能详解/NPC自动变色[!].md",
+      "title": "NPC自动变色[!]",
+      "category": "06-游戏功能详解",
+      "source": "NPC自动变色[!].htm",
+      "chars": 190
+    },
+    {
+      "path": "docs/06-游戏功能详解/改变用户模式 改变人物模式 石化或冰冻 中毒效果 蛛网效果,人物状态，禁锢，吸血,ChangeState.md",
+      "title": "改变用户模式 改变人物模式 石化或冰冻 中毒效果 蛛网效果,人物状态，禁锢，吸血,ChangeState",
+      "category": "06-游戏功能详解",
+      "source": "NPC蜘蛛网.htm",
+      "chars": 2062
+    },
+    {
+      "path": "docs/06-游戏功能详解/DB控制不显示人物发型,悬浮框装备背景图片.md",
+      "title": "DB控制不显示人物发型,悬浮框装备背景图片",
+      "category": "06-游戏功能详解",
+      "source": "不显示发型.htm",
+      "chars": 371
+    },
+    {
+      "path": "docs/06-游戏功能详解/人型怪物设置方法[!].md",
+      "title": "人型怪物设置方法[!]",
+      "category": "06-游戏功能详解",
+      "source": "人型怪物设置方法[!].htm",
+      "chars": 3873
+    },
+    {
+      "path": "docs/06-游戏功能详解/人物在线改名系统.md",
+      "title": "人物在线改名系统",
+      "category": "06-游戏功能详解",
+      "source": "人物在线改名.html",
+      "chars": 1354
+    },
+    {
+      "path": "docs/06-游戏功能详解/人物攻击和被攻击掉血前触发、修改当前伤害血量.md",
+      "title": "人物攻击和被攻击掉血前触发、修改当前伤害血量",
+      "category": "06-游戏功能详解",
+      "source": "人物攻击和被攻击掉血前触发.html",
+      "chars": 675
+    },
+    {
+      "path": "docs/06-游戏功能详解/人物释放技能前自身触发.md",
+      "title": "人物释放技能前自身触发",
+      "category": "06-游戏功能详解",
+      "source": "人物释放技能前自身触发.html",
+      "chars": 666
+    },
+    {
+      "path": "docs/06-游戏功能详解/从文本里随机获取一组不相同的字符.md",
+      "title": "从文本里随机获取一组不相同的字符",
+      "category": "06-游戏功能详解",
+      "source": "从文本里随机获取一组不相同的字符.html",
+      "chars": 613
+    },
+    {
+      "path": "docs/06-游戏功能详解/伤害吸收装备设置.md",
+      "title": "伤害吸收装备设置",
+      "category": "06-游戏功能详解",
+      "source": "伤害吸收装备设置[!].htm",
+      "chars": 131
+    },
+    {
+      "path": "docs/06-游戏功能详解/佩戴装备触发指定技能[!].md",
+      "title": "佩戴装备触发指定技能[!]",
+      "category": "06-游戏功能详解",
+      "source": "佩戴装备触发指定技能.htm",
+      "chars": 975
+    },
+    {
+      "path": "docs/06-游戏功能详解/修改地图怪物名称,修改地图怪物名字.md",
+      "title": "修改地图怪物名称,修改地图怪物名字",
+      "category": "06-游戏功能详解",
+      "source": "修改地图怪物名称.html",
+      "chars": 421
+    },
+    {
+      "path": "docs/06-游戏功能详解/修改宝宝身体颜色,修改分身身体颜色.md",
+      "title": "修改宝宝身体颜色,修改分身身体颜色",
+      "category": "06-游戏功能详解",
+      "source": "修改宝宝身体颜色.html",
+      "chars": 231
+    },
+    {
+      "path": "docs/06-游戏功能详解/修改指定账号的注册信息.md",
+      "title": "修改指定账号的注册信息",
+      "category": "06-游戏功能详解",
+      "source": "修改指定账号的注册信息.html",
+      "chars": 1829
+    },
+    {
+      "path": "docs/06-游戏功能详解/内功系统[!].md",
+      "title": "内功系统[!]",
+      "category": "06-游戏功能详解",
+      "source": "内功系统[!].htm",
+      "chars": 1127
+    },
+    {
+      "path": "docs/06-游戏功能详解/内挂挂机设置.md",
+      "title": "内挂挂机设置",
+      "category": "06-游戏功能详解",
+      "source": "内挂挂机设置.htm",
+      "chars": 562
+    },
+    {
+      "path": "docs/06-游戏功能详解/分身攻击触发.md",
+      "title": "分身攻击触发",
+      "category": "06-游戏功能详解",
+      "source": "分身攻击触发.html",
+      "chars": 287
+    },
+    {
+      "path": "docs/06-游戏功能详解/叠加功能[!].md",
+      "title": "叠加功能[!]",
+      "category": "06-游戏功能详解",
+      "source": "叠加功能[!].htm",
+      "chars": 309
+    },
+    {
+      "path": "docs/06-游戏功能详解/可视仓库.md",
+      "title": "可视仓库",
+      "category": "06-游戏功能详解",
+      "source": "可视仓库.HTML",
+      "chars": 888
+    },
+    {
+      "path": "docs/06-游戏功能详解/可视化商店(交易市场).md",
+      "title": "可视化商店(交易市场)",
+      "category": "06-游戏功能详解",
+      "source": "可视化商店.htm",
+      "chars": 415
+    },
+    {
+      "path": "docs/06-游戏功能详解/嘲讽命令,吸怪.md",
+      "title": "嘲讽命令,吸怪",
+      "category": "06-游戏功能详解",
+      "source": "嘲讽命令.html",
+      "chars": 184
+    },
+    {
+      "path": "docs/06-游戏功能详解/地图参数详解[!].md",
+      "title": "地图参数详解[!]",
+      "category": "06-游戏功能详解",
+      "source": "地图参数详解[!].htm",
+      "chars": 4077
+    },
+    {
+      "path": "docs/06-游戏功能详解/增加取随机值RANDOMEX非伪随机[!].md",
+      "title": "增加取随机值RANDOMEX非伪随机[!]",
+      "category": "06-游戏功能详解",
+      "source": "增加取随机值RANDOMEX非伪随机.html",
+      "chars": 260
+    },
+    {
+      "path": "docs/06-游戏功能详解/增加怪物爆物品（直接调用怪物爆率免去杀怪过程直接触发爆率文件）.md",
+      "title": "增加怪物爆物品（直接调用怪物爆率免去杀怪过程直接触发爆率文件）",
+      "category": "06-游戏功能详解",
+      "source": "增加爆怪物物品（免去杀怪过程直接触发爆率文件）.html",
+      "chars": 210
+    },
+    {
+      "path": "docs/06-游戏功能详解/多级脚本使用[!].md",
+      "title": "多级脚本使用[!]",
+      "category": "06-游戏功能详解",
+      "source": "多级脚本使用[!].htm",
+      "chars": 949
+    },
+    {
+      "path": "docs/06-游戏功能详解/天下第一雕像相关说明.md",
+      "title": "天下第一雕像相关说明",
+      "category": "06-游戏功能详解",
+      "source": "天下第一.HTML",
+      "chars": 3617
+    },
+    {
+      "path": "docs/06-游戏功能详解/天使翼翅膀.md",
+      "title": "天使翼翅膀",
+      "category": "06-游戏功能详解",
+      "source": "天使翼翅膀.html",
+      "chars": 265
+    },
+    {
+      "path": "docs/06-游戏功能详解/天气效果[!].md",
+      "title": "天气效果[!]",
+      "category": "06-游戏功能详解",
+      "source": "天气效果[!].htm",
+      "chars": 854
+    },
+    {
+      "path": "docs/06-游戏功能详解/镶嵌宝石设置说明.md",
+      "title": "镶嵌宝石设置说明",
+      "category": "06-游戏功能详解",
+      "source": "宝石镶嵌说明.HTML",
+      "chars": 8360
+    },
+    {
+      "path": "docs/06-游戏功能详解/宝箱自定义UI相关说明.md",
+      "title": "宝箱自定义UI相关说明",
+      "category": "06-游戏功能详解",
+      "source": "宝箱自定义UI相关说明.html",
+      "chars": 145
+    },
+    {
+      "path": "docs/06-游戏功能详解/宝箱获取物品触发、宝箱触发.md",
+      "title": "宝箱获取物品触发、宝箱触发",
+      "category": "06-游戏功能详解",
+      "source": "宝箱获取物品触发.html",
+      "chars": 146
+    },
+    {
+      "path": "docs/06-游戏功能详解/宠物说明.md",
+      "title": "宠物说明",
+      "category": "06-游戏功能详解",
+      "source": "宠物说明整理.htm",
+      "chars": 10186
+    },
+    {
+      "path": "docs/06-游戏功能详解/对捡取的物品进行关联.md",
+      "title": "对捡取的物品进行关联",
+      "category": "06-游戏功能详解",
+      "source": "对捡取的物品进行关联.htm",
+      "chars": 376
+    },
+    {
+      "path": "docs/06-游戏功能详解/小地图边框.md",
+      "title": "小地图边框",
+      "category": "06-游戏功能详解",
+      "source": "小地图边框.html",
+      "chars": 368
+    },
+    {
+      "path": "docs/06-游戏功能详解/巡逻卫士.md",
+      "title": "巡逻卫士",
+      "category": "06-游戏功能详解",
+      "source": "巡逻卫士.html",
+      "chars": 585
+    },
+    {
+      "path": "docs/06-游戏功能详解/强制怪物爆出物品、怪物掉落_爆出物品.md",
+      "title": "强制怪物爆出物品、怪物掉落/爆出物品",
+      "category": "06-游戏功能详解",
+      "source": "强制怪物爆出物品.html",
+      "chars": 728
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物伤害封顶[!].md",
+      "title": "怪物伤害封顶[!]",
+      "category": "06-游戏功能详解",
+      "source": "怪物伤害封顶[!].htm",
+      "chars": 45
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物名称颜色自定义功能[!].md",
+      "title": "怪物名称颜色自定义功能[!]",
+      "category": "06-游戏功能详解",
+      "source": "怪物名称颜色自定义功能[!].htm",
+      "chars": 396
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物大血条.md",
+      "title": "怪物大血条",
+      "category": "06-游戏功能详解",
+      "source": "怪物大血条.HTML",
+      "chars": 976
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物属性扩展[!].md",
+      "title": "怪物属性扩展[!]",
+      "category": "06-游戏功能详解",
+      "source": "怪物属性扩展[!].htm",
+      "chars": 353
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物探索设置说明[!].md",
+      "title": "怪物探索设置说明[!]",
+      "category": "06-游戏功能详解",
+      "source": "怪物探索设置说明[!].htm",
+      "chars": 1877
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物爆率支持变量.md",
+      "title": "怪物爆率支持变量",
+      "category": "06-游戏功能详解",
+      "source": "怪物爆率支持变量.html",
+      "chars": 75
+    },
+    {
+      "path": "docs/06-游戏功能详解/怪物说话配置[!].md",
+      "title": "怪物说话配置[!]",
+      "category": "06-游戏功能详解",
+      "source": "怪物说话配置[!].htm",
+      "chars": 1506
+    },
+    {
+      "path": "docs/06-游戏功能详解/打开客户端界面功能.md",
+      "title": "打开客户端界面功能",
+      "category": "06-游戏功能详解",
+      "source": "打开客户端界面功能.html",
+      "chars": 309
+    },
+    {
+      "path": "docs/06-游戏功能详解/扩展NPC脚本点击触发带参数,NPC标签带参数.md",
+      "title": "扩展NPC脚本点击触发带参数,NPC标签带参数",
+      "category": "06-游戏功能详解",
+      "source": "扩展NPC脚本点击触发带参数.html",
+      "chars": 1959
+    },
+    {
+      "path": "docs/06-游戏功能详解/扩展字符变量S和数字变量N[!].md",
+      "title": "扩展字符变量S和数字变量N[!]",
+      "category": "06-游戏功能详解",
+      "source": "扩展字符变量S和数字变量N[!].htm",
+      "chars": 341
+    },
+    {
+      "path": "docs/06-游戏功能详解/拍卖行.md",
+      "title": "拍卖行",
+      "category": "06-游戏功能详解",
+      "source": "拍卖行.htm",
+      "chars": 1784
+    },
+    {
+      "path": "docs/06-游戏功能详解/改变怪物脸型、改变怪物外观、改变怪物appr、修改怪物脸型、修改怪物外观、修改怪物appr.md",
+      "title": "改变怪物脸型、改变怪物外观、改变怪物appr、修改怪物脸型、修改怪物外观、修改怪物appr",
+      "category": "06-游戏功能详解",
+      "source": "改变怪物脸型命令.html",
+      "chars": 276
+    },
+    {
+      "path": "docs/06-游戏功能详解/显示改名后的装备名字变量.md",
+      "title": "显示改名后的装备名字变量",
+      "category": "06-游戏功能详解",
+      "source": "改名后装备名字变量.htm",
+      "chars": 908
+    },
+    {
+      "path": "docs/06-游戏功能详解/数字转换为图片显示标签.md",
+      "title": "数字转换为图片显示标签",
+      "category": "06-游戏功能详解",
+      "source": "数字转换为图片显示标签.htm",
+      "chars": 383
+    },
+    {
+      "path": "docs/06-游戏功能详解/斗笠功能设置[!].md",
+      "title": "斗笠功能设置[!]",
+      "category": "06-游戏功能详解",
+      "source": "斗笠功能设置[!].htm",
+      "chars": 1460
+    },
+    {
+      "path": "docs/06-游戏功能详解/新小地图计算方法[!].md",
+      "title": "新小地图计算方法[!]",
+      "category": "06-游戏功能详解",
+      "source": "新小地图计算方法[!].htm",
+      "chars": 1283
+    },
+    {
+      "path": "docs/06-游戏功能详解/爆率设置方式一：(传统设置).md",
+      "title": "爆率设置方式一：(传统设置)",
+      "category": "06-游戏功能详解",
+      "source": "新爆率格式 .html",
+      "chars": 3492
+    },
+    {
+      "path": "docs/06-游戏功能详解/无限仓库.md",
+      "title": "无限仓库",
+      "category": "06-游戏功能详解",
+      "source": "无限仓库.HTML",
+      "chars": 782
+    },
+    {
+      "path": "docs/06-游戏功能详解/机器码使用说明[!].md",
+      "title": "机器码使用说明[!]",
+      "category": "06-游戏功能详解",
+      "source": "机器码使用说明[!].htm",
+      "chars": 145
+    },
+    {
+      "path": "docs/06-游戏功能详解/角色打怪爆出物品直接入包，角色打怪爆出物品直接入包[!].md",
+      "title": "角色打怪爆出物品直接入包，角色打怪爆出物品直接入包[!]",
+      "category": "06-游戏功能详解",
+      "source": "杀怪爆出物品自动入包.htm",
+      "chars": 1007
+    },
+    {
+      "path": "docs/06-游戏功能详解/根据物品数据库idx直接得到物品.md",
+      "title": "根据物品数据库idx直接得到物品",
+      "category": "06-游戏功能详解",
+      "source": "根据物品数据库idx直接得到物品.html",
+      "chars": 105
+    },
+    {
+      "path": "docs/06-游戏功能详解/检测使用的物品来源于哪个背包.md",
+      "title": "检测使用的物品来源于哪个背包",
+      "category": "06-游戏功能详解",
+      "source": "检测使用的物品来源于哪个背包.html",
+      "chars": 478
+    },
+    {
+      "path": "docs/06-游戏功能详解/武器声音、武器音效.md",
+      "title": "武器声音、武器音效",
+      "category": "06-游戏功能详解",
+      "source": "武器声音.htm",
+      "chars": 966
+    },
+    {
+      "path": "docs/06-游戏功能详解/人物注册资料变量显示.md",
+      "title": "人物注册资料变量显示",
+      "category": "06-游戏功能详解",
+      "source": "注册资料变量.htm",
+      "chars": 295
+    },
+    {
+      "path": "docs/06-游戏功能详解/游戏内活动按钮[!].md",
+      "title": "游戏内活动按钮[!]",
+      "category": "06-游戏功能详解",
+      "source": "活动按钮.htm",
+      "chars": 50
+    },
+    {
+      "path": "docs/06-游戏功能详解/添加对话框(可用于主界面任务引导).md",
+      "title": "添加对话框(可用于主界面任务引导)",
+      "category": "06-游戏功能详解",
+      "source": "添加对话框AddDlg (可用于主界面任务引导).html",
+      "chars": 1772
+    },
+    {
+      "path": "docs/06-游戏功能详解/游戏开宝箱功能[!].md",
+      "title": "游戏开宝箱功能[!]",
+      "category": "06-游戏功能详解",
+      "source": "游戏开宝箱功能[!].htm",
+      "chars": 2870
+    },
+    {
+      "path": "docs/06-游戏功能详解/火龙神殿[!].md",
+      "title": "火龙神殿[!]",
+      "category": "06-游戏功能详解",
+      "source": "火龙神殿[!].htm",
+      "chars": 1545
+    },
+    {
+      "path": "docs/06-游戏功能详解/点击小地图自动寻路[!].md",
+      "title": "点击小地图自动寻路[!]",
+      "category": "06-游戏功能详解",
+      "source": "点击小地图自动寻路[!].htm",
+      "chars": 129
+    },
+    {
+      "path": "docs/06-游戏功能详解/物品合成系统[!].md",
+      "title": "物品合成系统[!]",
+      "category": "06-游戏功能详解",
+      "source": "物品合成系统[!].htm",
+      "chars": 1386
+    },
+    {
+      "path": "docs/06-游戏功能详解/物品和武器的扩展算法[!].md",
+      "title": "物品和武器的扩展算法[!]",
+      "category": "06-游戏功能详解",
+      "source": "物品和武器的扩展算法[!].htm",
+      "chars": 4605
+    },
+    {
+      "path": "docs/06-游戏功能详解/血球界面的魔法球效果[!.md",
+      "title": "血球界面的魔法球效果[!",
+      "category": "06-游戏功能详解",
+      "source": "界面播放魔法球.htm",
+      "chars": 217
+    },
+    {
+      "path": "docs/06-游戏功能详解/登录点安全区[!].md",
+      "title": "登录点安全区[!]",
+      "category": "06-游戏功能详解",
+      "source": "登录点安全区[!].htm",
+      "chars": 555
+    },
+    {
+      "path": "docs/06-游戏功能详解/禁止物品掉落、停止物品掉落、禁止爆出物品、爆出物品检测，脚本回收爆出物品.md",
+      "title": "禁止物品掉落、停止物品掉落、禁止爆出物品、爆出物品检测，脚本回收爆出物品",
+      "category": "06-游戏功能详解",
+      "source": "禁止物品掉落.html",
+      "chars": 488
+    },
+    {
+      "path": "docs/06-游戏功能详解/移动指定地图坐标的怪物到新的地图位置.、移动地图怪物.md",
+      "title": "移动指定地图坐标的怪物到新的地图位置.、移动地图怪物",
+      "category": "06-游戏功能详解",
+      "source": "移动指定地图坐标的怪物到新的地图位置.html",
+      "chars": 304
+    },
+    {
+      "path": "docs/06-游戏功能详解/穿戴和脱装备统一触发.md",
+      "title": "穿戴和脱装备统一触发",
+      "category": "06-游戏功能详解",
+      "source": "穿戴和脱装备统一触发.html",
+      "chars": 881
+    },
+    {
+      "path": "docs/06-游戏功能详解/经络连击[!].md",
+      "title": "经络连击[!]",
+      "category": "06-游戏功能详解",
+      "source": "经络连击[!].htm",
+      "chars": 3908
+    },
+    {
+      "path": "docs/06-游戏功能详解/文本读取、写入支持绝对路径.md",
+      "title": "文本读取、写入支持绝对路径",
+      "category": "06-游戏功能详解",
+      "source": "绝对路径.HTM",
+      "chars": 970
+    },
+    {
+      "path": "docs/06-游戏功能详解/背包扩展、包裹扩展.md",
+      "title": "背包扩展、包裹扩展",
+      "category": "06-游戏功能详解",
+      "source": "背包扩展.html",
+      "chars": 556
+    },
+    {
+      "path": "docs/06-游戏功能详解/脚本中使用图标功能[!].md",
+      "title": "脚本中使用图标功能[!]",
+      "category": "06-游戏功能详解",
+      "source": "脚本中使用图标功能[!].htm",
+      "chars": 1076
+    },
+    {
+      "path": "docs/06-游戏功能详解/脚本命令将数字转换为图片显示.md",
+      "title": "脚本命令将数字转换为图片显示",
+      "category": "06-游戏功能详解",
+      "source": "脚本命令将数字转换为图片显示.htm",
+      "chars": 641
+    },
+    {
+      "path": "docs/06-游戏功能详解/设置怪物爆率倍数[!].md",
+      "title": "设置怪物爆率倍数[!]",
+      "category": "06-游戏功能详解",
+      "source": "脚本设置怪物爆率倍数[!].htm",
+      "chars": 872
+    },
+    {
+      "path": "docs/06-游戏功能详解/自动登录离线挂机人物[!].md",
+      "title": "自动登录离线挂机人物[!]",
+      "category": "06-游戏功能详解",
+      "source": "自动登录离线挂机人物[!].htm",
+      "chars": 152
+    },
+    {
+      "path": "docs/06-游戏功能详解/自定义安全区形状.md",
+      "title": "自定义安全区形状",
+      "category": "06-游戏功能详解",
+      "source": "自定义安全区形状.html",
+      "chars": 1711
+    },
+    {
+      "path": "docs/06-游戏功能详解/自定义属性说明书.md",
+      "title": "自定义属性说明书",
+      "category": "06-游戏功能详解",
+      "source": "自定义属性说明书.htm",
+      "chars": 9367
+    },
+    {
+      "path": "docs/06-游戏功能详解/自定义进度条和自定义属性演示脚本.md",
+      "title": "自定义进度条和自定义属性演示脚本",
+      "category": "06-游戏功能详解",
+      "source": "自定义进度条和自定义属性演示脚本.htm",
+      "chars": 3012
+    },
+    {
+      "path": "docs/06-游戏功能详解/悬浮框自定义进度条使用说明.md",
+      "title": "悬浮框自定义进度条使用说明",
+      "category": "06-游戏功能详解",
+      "source": "自定义进度条说明书.htm",
+      "chars": 6197
+    },
+    {
+      "path": "docs/06-游戏功能详解/自定义采集功能.md",
+      "title": "自定义采集功能",
+      "category": "06-游戏功能详解",
+      "source": "自定义采集.htm",
+      "chars": 309
+    },
+    {
+      "path": "docs/06-游戏功能详解/英雄在线改名系统.md",
+      "title": "英雄在线改名系统",
+      "category": "06-游戏功能详解",
+      "source": "英雄在线改名.html",
+      "chars": 803
+    },
+    {
+      "path": "docs/06-游戏功能详解/英雄连击配置[!].md",
+      "title": "英雄连击配置[!]",
+      "category": "06-游戏功能详解",
+      "source": "英雄连击配置[!].htm",
+      "chars": 134
+    },
+    {
+      "path": "docs/06-游戏功能详解/英雄魔法触发功能.md",
+      "title": "英雄魔法触发功能",
+      "category": "06-游戏功能详解",
+      "source": "英雄魔法触发功能.html",
+      "chars": 246
+    },
+    {
+      "path": "docs/06-游戏功能详解/获取一组不相同的随机数.md",
+      "title": "获取一组不相同的随机数",
+      "category": "06-游戏功能详解",
+      "source": "获取一组不相同的随机数.html",
+      "chars": 538
+    },
+    {
+      "path": "docs/06-游戏功能详解/获取地图上分身数量.md",
+      "title": "获取地图上分身数量",
+      "category": "06-游戏功能详解",
+      "source": "获取地图上分身数量.html",
+      "chars": 278
+    },
+    {
+      "path": "docs/06-游戏功能详解/获取地图人数命令.md",
+      "title": "获取地图人数命令",
+      "category": "06-游戏功能详解",
+      "source": "获取地图人数命令.html",
+      "chars": 191
+    },
+    {
+      "path": "docs/06-游戏功能详解/获取对象的属性、获取属性.md",
+      "title": "获取对象的属性、获取属性",
+      "category": "06-游戏功能详解",
+      "source": "获取对象的全体属性.html",
+      "chars": 642
+    },
+    {
+      "path": "docs/06-游戏功能详解/捡起丢弃物品ID序列号.md",
+      "title": "捡起丢弃物品ID序列号",
+      "category": "06-游戏功能详解",
+      "source": "获取捡起丢弃物品ID序列号.html",
+      "chars": 206
+    },
+    {
+      "path": "docs/06-游戏功能详解/获取物品属性值.md",
+      "title": "获取物品属性值",
+      "category": "06-游戏功能详解",
+      "source": "获取物品属性值.html",
+      "chars": 1325
+    },
+    {
+      "path": "docs/06-游戏功能详解/装备套装备注[!].md",
+      "title": "装备套装备注[!]",
+      "category": "06-游戏功能详解",
+      "source": "装备套装备注[!].htm",
+      "chars": 710
+    },
+    {
+      "path": "docs/06-游戏功能详解/角色交易系统,账号交易买卖，角色出售[!].md",
+      "title": "角色交易系统,账号交易买卖，角色出售[!]",
+      "category": "06-游戏功能详解",
+      "source": "角色交易系统.htm",
+      "chars": 2826
+    },
+    {
+      "path": "docs/06-游戏功能详解/调整分身攻击人物的威力倍率.md",
+      "title": "调整分身攻击人物的威力倍率",
+      "category": "06-游戏功能详解",
+      "source": "调整分身攻击人物的威力倍率.html",
+      "chars": 755
+    },
+    {
+      "path": "docs/06-游戏功能详解/调整宝宝攻击人物的威力倍率.md",
+      "title": "调整宝宝攻击人物的威力倍率",
+      "category": "06-游戏功能详解",
+      "source": "调整宝宝攻击人物的威力倍率.htm",
+      "chars": 805
+    },
+    {
+      "path": "docs/06-游戏功能详解/购买摆摊物品后触发、摆摊触发.md",
+      "title": "购买摆摊物品后触发、摆摊触发",
+      "category": "06-游戏功能详解",
+      "source": "购买摆摊物品后触发.html",
+      "chars": 285
+    },
+    {
+      "path": "docs/06-游戏功能详解/爆率透视.md",
+      "title": "爆率透视",
+      "category": "06-游戏功能详解",
+      "source": "透视命令.html",
+      "chars": 1488
+    },
+    {
+      "path": "docs/06-游戏功能详解/假人配置[!].md",
+      "title": "假人配置[!]",
+      "category": "06-游戏功能详解",
+      "source": "配置假人[!].htm",
+      "chars": 4625
+    },
+    {
+      "path": "docs/06-游戏功能详解/采集类怪物[!].md",
+      "title": "采集类怪物[!]",
+      "category": "06-游戏功能详解",
+      "source": "采集类怪物.htm",
+      "chars": 312
+    },
+    {
+      "path": "docs/06-游戏功能详解/限制摆摊物品最低售价.md",
+      "title": "限制摆摊物品最低售价",
+      "category": "06-游戏功能详解",
+      "source": "限制摆摊物品最低售价.htm",
+      "chars": 136
+    },
+    {
+      "path": "docs/06-游戏功能详解/韩国地图,韩国传奇3.md",
+      "title": "韩国地图,韩国传奇3",
+      "category": "06-游戏功能详解",
+      "source": "韩国传奇2地图支持说明.htm",
+      "chars": 116
+    },
+    {
+      "path": "docs/06-游戏功能详解/韩国地图,韩国传奇2.md",
+      "title": "韩国地图,韩国传奇2",
+      "category": "06-游戏功能详解",
+      "source": "韩国传奇3地图支持说明.htm",
+      "chars": 347
+    },
+    {
+      "path": "docs/06-游戏功能详解/顶戴花翎功能[!].md",
+      "title": "顶戴花翎功能[!]",
+      "category": "06-游戏功能详解",
+      "source": "顶戴花翎功能[!].htm",
+      "chars": 1170
+    },
+    {
+      "path": "docs/06-游戏功能详解/魔王岭相关.md",
+      "title": "魔王岭相关",
+      "category": "06-游戏功能详解",
+      "source": "魔王岭相关.html",
+      "chars": 513
+    },
+    {
+      "path": "docs/07-游戏魔法技能/英雄合击技能[!].md",
+      "title": "英雄合击技能[!]",
+      "category": "07-游戏魔法技能",
+      "source": "合击技能[!].htm",
+      "chars": 515
+    },
+    {
+      "path": "docs/08-脚本实例/53类宝石(封印)介绍[!].md",
+      "title": "53类宝石(封印)介绍[!]",
+      "category": "08-脚本实例",
+      "source": "53类宝石描述.htm",
+      "chars": 369
+    },
+    {
+      "path": "docs/08-脚本实例/LineNotice.txt彩色滚动公告[!].md",
+      "title": "LineNotice.txt彩色滚动公告[!]",
+      "category": "08-脚本实例",
+      "source": "LineNotice.txt彩色滚动公告[!].htm",
+      "chars": 330
+    },
+    {
+      "path": "docs/08-脚本实例/NPC命令打开装备栏及其他页面[!].md",
+      "title": "NPC命令打开装备栏及其他页面[!]",
+      "category": "08-脚本实例",
+      "source": "NPC命令打开装备栏及其他页面.htm",
+      "chars": 344
+    },
+    {
+      "path": "docs/08-脚本实例/NPC对话框内倒计时.md",
+      "title": "NPC对话框内倒计时",
+      "category": "08-脚本实例",
+      "source": "NPC对话框内倒计时.html",
+      "chars": 589
+    },
+    {
+      "path": "docs/08-脚本实例/NPC对话框调用装备信息（支持物品图片以及展示属性）.md",
+      "title": "NPC对话框调用装备信息（支持物品图片以及展示属性）",
+      "category": "08-脚本实例",
+      "source": "NPC对话框调用装备信息.htm",
+      "chars": 247
+    },
+    {
+      "path": "docs/08-脚本实例/NPC对话框调用身上装备信息（支持物品图片以及展示属性）.md",
+      "title": "NPC对话框调用身上装备信息（支持物品图片以及展示属性）",
+      "category": "08-脚本实例",
+      "source": "NPC对话框调用身上装备信息.htm",
+      "chars": 251
+    },
+    {
+      "path": "docs/08-脚本实例/NPC标签备注功能[!].md",
+      "title": "NPC标签备注功能[!]",
+      "category": "08-脚本实例",
+      "source": "npc标签功能.htm",
+      "chars": 105
+    },
+    {
+      "path": "docs/08-脚本实例/一键回收包裹物品[!].md",
+      "title": "一键回收包裹物品[!]",
+      "category": "08-脚本实例",
+      "source": "一键回收包裹物品.htm",
+      "chars": 730
+    },
+    {
+      "path": "docs/08-脚本实例/人物显示一个放大的虚影[!].md",
+      "title": "人物显示一个放大的虚影[!]",
+      "category": "08-脚本实例",
+      "source": "人物显示幻象.htm",
+      "chars": 149
+    },
+    {
+      "path": "docs/08-脚本实例/人物转生[!].md",
+      "title": "人物转生[!]",
+      "category": "08-脚本实例",
+      "source": "人物转生[!].htm",
+      "chars": 1574
+    },
+    {
+      "path": "docs/08-脚本实例/人物颜色发型.md",
+      "title": "人物颜色发型",
+      "category": "08-脚本实例",
+      "source": "人物颜色发型.htm",
+      "chars": 1804
+    },
+    {
+      "path": "docs/08-脚本实例/任务脚本.md",
+      "title": "任务脚本",
+      "category": "08-脚本实例",
+      "source": "任务脚本.htm",
+      "chars": 3474
+    },
+    {
+      "path": "docs/08-脚本实例/会员系统详解.md",
+      "title": "会员系统详解",
+      "category": "08-脚本实例",
+      "source": "会员系统详解.htm",
+      "chars": 1350
+    },
+    {
+      "path": "docs/08-脚本实例/使用脚本命令解毒[!].md",
+      "title": "使用脚本命令解毒[!]",
+      "category": "08-脚本实例",
+      "source": "使用脚本命令解毒.htm",
+      "chars": 93
+    },
+    {
+      "path": "docs/08-脚本实例/修改人体颜色,改变人体颜色.md",
+      "title": "修改人体颜色,改变人体颜色",
+      "category": "08-脚本实例",
+      "source": "修改人体颜色.html",
+      "chars": 490
+    },
+    {
+      "path": "docs/08-脚本实例/修改怪物颜色[!].md",
+      "title": "修改怪物颜色[!]",
+      "category": "08-脚本实例",
+      "source": "修改怪物身体颜色.html",
+      "chars": 398
+    },
+    {
+      "path": "docs/08-脚本实例/假人登录脚本实例.md",
+      "title": "假人登录脚本实例",
+      "category": "08-脚本实例",
+      "source": "假人登录脚本.htm",
+      "chars": 666
+    },
+    {
+      "path": "docs/08-脚本实例/假人自动摆摊.md",
+      "title": "假人自动摆摊",
+      "category": "08-脚本实例",
+      "source": "假人自动摆摊.htm",
+      "chars": 386
+    },
+    {
+      "path": "docs/08-脚本实例/开通元宝寄售服务.md",
+      "title": "开通元宝寄售服务",
+      "category": "08-脚本实例",
+      "source": "元宝寄售系统.HTML",
+      "chars": 1413
+    },
+    {
+      "path": "docs/08-脚本实例/元宝转账.md",
+      "title": "元宝转账",
+      "category": "08-脚本实例",
+      "source": "元宝转帐.htm",
+      "chars": 398
+    },
+    {
+      "path": "docs/08-脚本实例/创建主将英雄脚本.md",
+      "title": "创建主将英雄脚本",
+      "category": "08-脚本实例",
+      "source": "创建主将英雄脚本.htm",
+      "chars": 4349
+    },
+    {
+      "path": "docs/08-脚本实例/创建副将英雄脚本.md",
+      "title": "创建副将英雄脚本",
+      "category": "08-脚本实例",
+      "source": "创建副将英雄脚本.html",
+      "chars": 7891
+    },
+    {
+      "path": "docs/08-脚本实例/[@main].md",
+      "title": "[@main]",
+      "category": "08-脚本实例",
+      "source": "创建行会脚本.htm",
+      "chars": 1352
+    },
+    {
+      "path": "docs/08-脚本实例/副本地图相关参数.md",
+      "title": "副本地图相关参数",
+      "category": "08-脚本实例",
+      "source": "副本地图.html",
+      "chars": 2969
+    },
+    {
+      "path": "docs/08-脚本实例/动态地图连接[!].md",
+      "title": "动态地图连接[!]",
+      "category": "08-脚本实例",
+      "source": "动态地图连接[!].htm",
+      "chars": 995
+    },
+    {
+      "path": "docs/08-脚本实例/卧龙山庄的地图代码为 Hero1.md",
+      "title": "卧龙山庄的地图代码为 Hero1",
+      "category": "08-脚本实例",
+      "source": "卧龙山庄配置.html",
+      "chars": 1677
+    },
+    {
+      "path": "docs/08-脚本实例/发送聊天框固顶信息.md",
+      "title": "发送聊天框固顶信息",
+      "category": "08-脚本实例",
+      "source": "发送聊天框固顶信息.htm",
+      "chars": 133
+    },
+    {
+      "path": "docs/08-脚本实例/召唤某个玩家到自己身边.md",
+      "title": "召唤某个玩家到自己身边",
+      "category": "08-脚本实例",
+      "source": "召唤玩家到自己身边.htm",
+      "chars": 222
+    },
+    {
+      "path": "docs/08-脚本实例/ThrowItem在放置物品之前修改物品的来源.md",
+      "title": "ThrowItem在放置物品之前修改物品的来源",
+      "category": "08-脚本实例",
+      "source": "在放置物品之前修改物品的来源.html",
+      "chars": 613
+    },
+    {
+      "path": "docs/08-脚本实例/刷新包裹的命令.md",
+      "title": "刷新包裹的命令",
+      "category": "08-脚本实例",
+      "source": "增加刷新包裹命令.html",
+      "chars": 333
+    },
+    {
+      "path": "docs/08-脚本实例/复活触发[!].md",
+      "title": "复活触发[!]",
+      "category": "08-脚本实例",
+      "source": "复活触发.html",
+      "chars": 205
+    },
+    {
+      "path": "docs/08-脚本实例/大退游戏命令.md",
+      "title": "大退游戏命令",
+      "category": "08-脚本实例",
+      "source": "大退游戏命令.htm",
+      "chars": 121
+    },
+    {
+      "path": "docs/08-脚本实例/魔王岭脚本.md",
+      "title": "魔王岭脚本",
+      "category": "08-脚本实例",
+      "source": "天下第一.htm",
+      "chars": 396
+    },
+    {
+      "path": "docs/08-脚本实例/脚本发送屏幕震动[!].md",
+      "title": "脚本发送屏幕震动[!]",
+      "category": "08-脚本实例",
+      "source": "屏幕震动脚本.htm",
+      "chars": 624
+    },
+    {
+      "path": "docs/08-脚本实例/强制组队脚本.md",
+      "title": "强制组队脚本",
+      "category": "08-脚本实例",
+      "source": "强制组队.html",
+      "chars": 667
+    },
+    {
+      "path": "docs/08-脚本实例/循环脚本.md",
+      "title": "循环脚本",
+      "category": "08-脚本实例",
+      "source": "循环脚本.htm",
+      "chars": 504
+    },
+    {
+      "path": "docs/08-脚本实例/脚本控制怪物攻城.md",
+      "title": "脚本控制怪物攻城",
+      "category": "08-脚本实例",
+      "source": "怪物攻城脚本.htm",
+      "chars": 1649
+    },
+    {
+      "path": "docs/08-脚本实例/悬浮式装备信息窗口支持图片显示.md",
+      "title": "悬浮式装备信息窗口支持图片显示",
+      "category": "08-脚本实例",
+      "source": "悬浮式提示框支持图片.HTML",
+      "chars": 600
+    },
+    {
+      "path": "docs/08-脚本实例/打开个人店铺（摆摊）.md",
+      "title": "打开个人店铺（摆摊）",
+      "category": "08-脚本实例",
+      "source": "打开个人店铺脚本命令.htm",
+      "chars": 85
+    },
+    {
+      "path": "docs/08-脚本实例/技能栏升级强化技能[!].md",
+      "title": "技能栏升级强化技能[!]",
+      "category": "08-脚本实例",
+      "source": "技能栏触发升级强化技能.html",
+      "chars": 1196
+    },
+    {
+      "path": "docs/08-脚本实例/挑战功能.md",
+      "title": "挑战功能",
+      "category": "08-脚本实例",
+      "source": "挑战功能.htm",
+      "chars": 3996
+    },
+    {
+      "path": "docs/08-脚本实例/捆药绳[!].md",
+      "title": "捆药绳[!]",
+      "category": "08-脚本实例",
+      "source": "捆药绳.html",
+      "chars": 218
+    },
+    {
+      "path": "docs/08-脚本实例/收徒脚本.md",
+      "title": "收徒脚本",
+      "category": "08-脚本实例",
+      "source": "收徒脚本.htm",
+      "chars": 3867
+    },
+    {
+      "path": "docs/08-脚本实例/改变人物状态脚本.md",
+      "title": "改变人物状态脚本",
+      "category": "08-脚本实例",
+      "source": "改变人物状态脚本.html",
+      "chars": 203
+    },
+    {
+      "path": "docs/08-脚本实例/新增触发.md",
+      "title": "新增触发",
+      "category": "08-脚本实例",
+      "source": "新增触发说明.htm",
+      "chars": 1322
+    },
+    {
+      "path": "docs/08-脚本实例/屏幕显示信息分个人和全局.md",
+      "title": "屏幕显示信息分个人和全局",
+      "category": "08-脚本实例",
+      "source": "新的公告.html",
+      "chars": 1624
+    },
+    {
+      "path": "docs/08-脚本实例/新转职业变性脚本.md",
+      "title": "新转职业变性脚本",
+      "category": "08-脚本实例",
+      "source": "新转职业变性脚本.htm",
+      "chars": 5346
+    },
+    {
+      "path": "docs/08-脚本实例/机器人脚本.md",
+      "title": "机器人脚本",
+      "category": "08-脚本实例",
+      "source": "机器人脚本.htm",
+      "chars": 1200
+    },
+    {
+      "path": "docs/08-脚本实例/功能：.md",
+      "title": "功能：",
+      "category": "08-脚本实例",
+      "source": "检测人物多少时间没有移动.htm",
+      "chars": 342
+    },
+    {
+      "path": "docs/08-脚本实例/检查人物的职业 [!].md",
+      "title": "检查人物的职业 [!]",
+      "category": "08-脚本实例",
+      "source": "检测人物职业.htm",
+      "chars": 148
+    },
+    {
+      "path": "docs/08-脚本实例/此命令可以用于抓鬼任务 ，随机刷怪前检测坐标.md",
+      "title": "此命令可以用于抓鬼任务 ，随机刷怪前检测坐标",
+      "category": "08-脚本实例",
+      "source": "检测地图坐标是否可以到达.htm",
+      "chars": 214
+    },
+    {
+      "path": "docs/08-脚本实例/装备加速功能.md",
+      "title": "装备加速功能",
+      "category": "08-脚本实例",
+      "source": "武器速度.htm",
+      "chars": 120
+    },
+    {
+      "path": "docs/08-脚本实例/沙城主公告.md",
+      "title": "沙城主公告",
+      "category": "08-脚本实例",
+      "source": "沙城主公告.htm",
+      "chars": 1594
+    },
+    {
+      "path": "docs/08-脚本实例/清除当前人物的拜师信息.md",
+      "title": "清除当前人物的拜师信息",
+      "category": "08-脚本实例",
+      "source": "清除当前人物的拜师信息.htm",
+      "chars": 236
+    },
+    {
+      "path": "docs/08-脚本实例/烟花脚本实例[!].md",
+      "title": "烟花脚本实例[!]",
+      "category": "08-脚本实例",
+      "source": "烟花脚本[!].htm",
+      "chars": 1586
+    },
+    {
+      "path": "docs/08-脚本实例/人物登录脚本.md",
+      "title": "人物登录脚本",
+      "category": "08-脚本实例",
+      "source": "登录脚本.htm",
+      "chars": 429
+    },
+    {
+      "path": "docs/08-脚本实例/百分比检测.md",
+      "title": "--------------------------------------------------------------------",
+      "category": "08-脚本实例",
+      "source": "百分比检测.htm",
+      "chars": 1618
+    },
+    {
+      "path": "docs/08-脚本实例/祝福语脚本.md",
+      "title": "祝福语脚本",
+      "category": "08-脚本实例",
+      "source": "祝福语脚本.htm",
+      "chars": 157
+    },
+    {
+      "path": "docs/08-脚本实例/神佑袋（十二生肖）介绍.md",
+      "title": "神佑袋（十二生肖）介绍",
+      "category": "08-脚本实例",
+      "source": "神佑袋.htm",
+      "chars": 4010
+    },
+    {
+      "path": "docs/08-脚本实例/离线挂机[!].md",
+      "title": "离线挂机[!]",
+      "category": "08-脚本实例",
+      "source": "离线挂机[!].htm",
+      "chars": 625
+    },
+    {
+      "path": "docs/08-脚本实例/经验怪、经验猪.md",
+      "title": "经验怪、经验猪",
+      "category": "08-脚本实例",
+      "source": "经验猪类型的经验怪.htm",
+      "chars": 243
+    },
+    {
+      "path": "docs/08-脚本实例/结婚脚本.md",
+      "title": "结婚脚本",
+      "category": "08-脚本实例",
+      "source": "结婚脚本.htm",
+      "chars": 3829
+    },
+    {
+      "path": "docs/08-脚本实例/聊天框自定义颜色.md",
+      "title": "聊天框自定义颜色",
+      "category": "08-脚本实例",
+      "source": "聊天框自定义颜色.htm",
+      "chars": 342
+    },
+    {
+      "path": "docs/08-脚本实例/脚本初始化.md",
+      "title": "脚本初始化",
+      "category": "08-脚本实例",
+      "source": "脚本初始化.html",
+      "chars": 185
+    },
+    {
+      "path": "docs/08-脚本实例/召唤指定怪物为宝宝,脚本召唤宝宝.md",
+      "title": "召唤指定怪物为宝宝,脚本召唤宝宝",
+      "category": "08-脚本实例",
+      "source": "脚本召唤宝宝.htm",
+      "chars": 399
+    },
+    {
+      "path": "docs/08-脚本实例/脚本增加自定义按钮[!].md",
+      "title": "脚本增加自定义按钮[!]",
+      "category": "08-脚本实例",
+      "source": "脚本增加自定义按钮.htm",
+      "chars": 1877
+    },
+    {
+      "path": "docs/08-脚本实例/自动排列自定义按钮倒计时触发.md",
+      "title": "自动排列自定义按钮倒计时触发",
+      "category": "08-脚本实例",
+      "source": "自动排列自定义按钮倒计时触发.html",
+      "chars": 1168
+    },
+    {
+      "path": "docs/08-脚本实例/自定义变量前可使用变量或者多级脚本调用，说明：M. 为当前攻击对象   L.当前攻击自己对象.md",
+      "title": "自定义变量前可使用变量或者多级脚本调用，说明：M. 为当前攻击对象   L.当前攻击自己对象",
+      "category": "08-脚本实例",
+      "source": "自定义使用多级脚本.htm",
+      "chars": 1205
+    },
+    {
+      "path": "docs/08-脚本实例/自定义命令输入参数[!].md",
+      "title": "自定义命令输入参数[!]",
+      "category": "08-脚本实例",
+      "source": "自定义命令输入参数[!].htm",
+      "chars": 637
+    },
+    {
+      "path": "docs/08-脚本实例/自定义按钮倒计时触发.md",
+      "title": "自定义按钮倒计时触发",
+      "category": "08-脚本实例",
+      "source": "自定义按钮倒计时触发.htm",
+      "chars": 751
+    },
+    {
+      "path": "docs/08-脚本实例/英雄攻击触发.md",
+      "title": "英雄攻击触发",
+      "category": "08-脚本实例",
+      "source": "英雄攻击触发.HTML",
+      "chars": 2246
+    },
+    {
+      "path": "docs/08-脚本实例/获取徒弟列表.md",
+      "title": "获取徒弟列表",
+      "category": "08-脚本实例",
+      "source": "获取徒弟列表.htm",
+      "chars": 106
+    },
+    {
+      "path": "docs/08-脚本实例/获取徒弟数量.md",
+      "title": "获取徒弟数量",
+      "category": "08-脚本实例",
+      "source": "获取徒弟数量.htm",
+      "chars": 110
+    },
+    {
+      "path": "docs/08-脚本实例/获取组队成员数量(组队相关命令).md",
+      "title": "获取组队成员数量(组队相关命令)",
+      "category": "08-脚本实例",
+      "source": "获取组队成员数量.htm",
+      "chars": 552
+    },
+    {
+      "path": "docs/08-脚本实例/装备名称自定义系统.md",
+      "title": "装备名称自定义系统",
+      "category": "08-脚本实例",
+      "source": "装备改名.htm",
+      "chars": 1429
+    },
+    {
+      "path": "docs/08-脚本实例/记忆石设置方法[!].md",
+      "title": "记忆石设置方法[!]",
+      "category": "08-脚本实例",
+      "source": "记忆石设置方法[!].htm",
+      "chars": 1350
+    },
+    {
+      "path": "docs/08-脚本实例/设置雕像有效时间[!].md",
+      "title": "设置雕像有效时间[!]",
+      "category": "08-脚本实例",
+      "source": "设置雕像有效时间.html",
+      "chars": 275
+    },
+    {
+      "path": "docs/08-脚本实例/跳转，延迟.md",
+      "title": "跳转，延迟",
+      "category": "08-脚本实例",
+      "source": "跳转延迟.htm",
+      "chars": 594
+    },
+    {
+      "path": "docs/08-脚本实例/转生触发.md",
+      "title": "转生触发",
+      "category": "08-脚本实例",
+      "source": "转生触发.htm",
+      "chars": 142
+    },
+    {
+      "path": "docs/08-脚本实例/转职业变性脚本.md",
+      "title": "转职业变性脚本",
+      "category": "08-脚本实例",
+      "source": "转职业变性脚本.htm",
+      "chars": 1697
+    },
+    {
+      "path": "docs/08-脚本实例/达到多少人在线不允许离线挂机脚本.md",
+      "title": "达到多少人在线不允许离线挂机脚本",
+      "category": "08-脚本实例",
+      "source": "达到多少人在线不允许离线挂机脚本.htm",
+      "chars": 1022
+    },
+    {
+      "path": "docs/08-脚本实例/酒神弟子完整脚本[!].md",
+      "title": "酒神弟子完整脚本[!]",
+      "category": "08-脚本实例",
+      "source": "酒神弟子完整脚本[!].htm",
+      "chars": 1831
+    },
+    {
+      "path": "docs/09-常见问题解答/不能自动解包.md",
+      "title": "不能自动解包",
+      "category": "09-常见问题解答",
+      "source": "不能自动解包.html",
+      "chars": 1757
+    },
+    {
+      "path": "docs/09-常见问题解答/为什么我原来数据库里的武器加速，现在乱了？.md",
+      "title": "为什么我原来数据库里的武器加速，现在乱了？",
+      "category": "09-常见问题解答",
+      "source": "为什么我原来数据库里的武器加速现在乱了.htm",
+      "chars": 110
+    },
+    {
+      "path": "docs/09-常见问题解答/为什么我的NPC不能买、卖、修理物品？.md",
+      "title": "为什么我的NPC不能买、卖、修理物品？",
+      "category": "09-常见问题解答",
+      "source": "为什么我的NPC不能买卖修理物品.htm",
+      "chars": 387
+    },
+    {
+      "path": "docs/09-常见问题解答/为什么我的沙城墙没血条.md",
+      "title": "为什么我的沙城墙没血条",
+      "category": "09-常见问题解答",
+      "source": "为什么我的沙城墙没血条.htm",
+      "chars": 163
+    },
+    {
+      "path": "docs/09-常见问题解答/内挂默认药品设置.md",
+      "title": "内挂默认药品设置",
+      "category": "09-常见问题解答",
+      "source": "内挂默认药品设置.html",
+      "chars": 917
+    },
+    {
+      "path": "docs/09-常见问题解答/商铺购买不了元宝.md",
+      "title": "商铺购买不了元宝",
+      "category": "09-常见问题解答",
+      "source": "商铺购买不了元宝.html",
+      "chars": 166
+    },
+    {
+      "path": "docs/09-常见问题解答/套装属性体力恢复和魔法恢复百分比.md",
+      "title": "套装属性体力恢复和魔法恢复百分比",
+      "category": "09-常见问题解答",
+      "source": "套装属性HP和MP恢复百分比.html",
+      "chars": 438
+    },
+    {
+      "path": "docs/09-常见问题解答/如何改变蜡烛类型装备掉持久类型.md",
+      "title": "如何改变蜡烛类型装备掉持久类型",
+      "category": "09-常见问题解答",
+      "source": "如何改变蜡烛类型装备掉持久类型[!].htm",
+      "chars": 153
+    },
+    {
+      "path": "docs/09-常见问题解答/如何设置武器为吸血武器.md",
+      "title": "如何设置武器为吸血武器",
+      "category": "09-常见问题解答",
+      "source": "如何设置武器为吸血武器.htm",
+      "chars": 95
+    },
+    {
+      "path": "docs/09-常见问题解答/泡点功能详解.md",
+      "title": "泡点功能详解",
+      "category": "09-常见问题解答",
+      "source": "泡点功能详解.htm",
+      "chars": 705
+    },
+    {
+      "path": "docs/09-常见问题解答/物品不能重叠.md",
+      "title": "物品不能重叠",
+      "category": "09-常见问题解答",
+      "source": "物品不能重叠.html",
+      "chars": 177
+    },
+    {
+      "path": "docs/09-常见问题解答/登陆游戏黑屏.md",
+      "title": "登陆游戏黑屏",
+      "category": "09-常见问题解答",
+      "source": "登陆黑屏.htm",
+      "chars": 161
+    },
+    {
+      "path": "docs/09-常见问题解答/看不见衣服翅膀和武器特效.md",
+      "title": "看不见衣服翅膀和武器特效",
+      "category": "09-常见问题解答",
+      "source": "看不见衣服翅膀和武器特效.html",
+      "chars": 49
+    },
+    {
+      "path": "docs/09-常见问题解答/组队快捷键Alt+W 和 Alt+S 均为快速组队热键.md",
+      "title": "组队快捷键Alt+W 和 Alt+S 均为快速组队热键",
+      "category": "09-常见问题解答",
+      "source": "组队热键.htm",
+      "chars": 59
+    },
+    {
+      "path": "docs/09-常见问题解答/自动吃背包的触发物品问题[!].md",
+      "title": "自动吃背包的触发物品问题[!]",
+      "category": "09-常见问题解答",
+      "source": "自动吃背包的触发物品问题[!].htm",
+      "chars": 17
+    },
+    {
+      "path": "docs/09-常见问题解答/游戏中人物血和蓝数值不正确解决方法.md",
+      "title": "游戏中人物血和蓝数值不正确解决方法",
+      "category": "09-常见问题解答",
+      "source": "血量显示不正确.htm",
+      "chars": 528
+    },
+    {
+      "path": "docs/10-其他资料/DEC对字符型变量操作命令[!].md",
+      "title": "DEC对字符型变量操作命令[!]",
+      "category": "10-其他资料",
+      "source": "DEC对字符型变量操作命令[!].htm",
+      "chars": 221
+    },
+    {
+      "path": "docs/10-其他资料/新增GM命令[!].md",
+      "title": "新增GM命令[!]",
+      "category": "10-其他资料",
+      "source": "GM管理命令[!].htm",
+      "chars": 2429
+    },
+    {
+      "path": "docs/10-其他资料/MagicShieldItemList.md",
+      "title": "MagicShieldItemList",
+      "category": "10-其他资料",
+      "source": "MagicShieldItemList护身.htm",
+      "chars": 519
+    },
+    {
+      "path": "docs/10-其他资料/MapQuest.txt说明.md",
+      "title": "MapQuest.txt说明",
+      "category": "10-其他资料",
+      "source": "MapQuest.txt扩展.htm",
+      "chars": 557
+    },
+    {
+      "path": "docs/10-其他资料/NPC对话框内默认输入框.md",
+      "title": "NPC对话框内默认输入框",
+      "category": "10-其他资料",
+      "source": "NPC对话框内默认输入框.htm",
+      "chars": 1039
+    },
+    {
+      "path": "docs/10-其他资料/NPC对话框点击复制文字.md",
+      "title": "NPC对话框点击复制文字",
+      "category": "10-其他资料",
+      "source": "NPC对话框点击复制文字.htm",
+      "chars": 129
+    },
+    {
+      "path": "docs/10-其他资料/为什么提示禁止点击该NPC触发字段？.md",
+      "title": "为什么提示禁止点击该NPC触发字段？",
+      "category": "10-其他资料",
+      "source": "为什么提示禁止点击该NPC触发字段.HTML",
+      "chars": 844
+    },
+    {
+      "path": "docs/10-其他资料/登录二级密码功能.md",
+      "title": "登录二级密码功能",
+      "category": "10-其他资料",
+      "source": "二级密码功能.htm",
+      "chars": 195
+    },
+    {
+      "path": "docs/10-其他资料/官方马牌参数： 变量：_$HORSE_装备位置：15.md",
+      "title": "官方马牌参数： 变量：<$HORSE>装备位置：15",
+      "category": "10-其他资料",
+      "source": "仿官方马牌说明.html",
+      "chars": 4590
+    },
+    {
+      "path": "docs/10-其他资料/传奇脚本命令详解[!].md",
+      "title": "传奇脚本命令详解[!]",
+      "category": "10-其他资料",
+      "source": "传奇基础脚本命令详解[!].htm",
+      "chars": 5063
+    },
+    {
+      "path": "docs/10-其他资料/修改内力值.md",
+      "title": "修改内力值",
+      "category": "10-其他资料",
+      "source": "修改内力值.html",
+      "chars": 144
+    },
+    {
+      "path": "docs/10-其他资料/内力恢复药物.md",
+      "title": "内力恢复药物",
+      "category": "10-其他资料",
+      "source": "内力恢复药物.html",
+      "chars": 421
+    },
+    {
+      "path": "docs/10-其他资料/动态创建镜像地图.md",
+      "title": "动态创建镜像地图",
+      "category": "10-其他资料",
+      "source": "动态创建镜像地图.htm",
+      "chars": 1625
+    },
+    {
+      "path": "docs/10-其他资料/国战系统命令汇总.md",
+      "title": "国战系统命令汇总",
+      "category": "10-其他资料",
+      "source": "国家命令汇总.html",
+      "chars": 4905
+    },
+    {
+      "path": "docs/10-其他资料/国战系统脚本实例.md",
+      "title": "国战系统脚本实例",
+      "category": "10-其他资料",
+      "source": "国家脚本实例.html",
+      "chars": 2308
+    },
+    {
+      "path": "docs/10-其他资料/扩展GIVE命令.md",
+      "title": "扩展GIVE命令",
+      "category": "10-其他资料",
+      "source": "扩展GIVE命令.htm",
+      "chars": 986
+    },
+    {
+      "path": "docs/10-其他资料/掉落提示增加支持物品属性信息查看.md",
+      "title": "掉落提示增加支持物品属性信息查看",
+      "category": "10-其他资料",
+      "source": "掉落提示增加支持物品属性信息查看.html",
+      "chars": 339
+    },
+    {
+      "path": "docs/10-其他资料/掉落身上装备命令.md",
+      "title": "掉落身上装备命令",
+      "category": "10-其他资料",
+      "source": "掉落身上装备命令.html",
+      "chars": 128
+    },
+    {
+      "path": "docs/10-其他资料/数据库变量说明[!].md",
+      "title": "数据库变量说明[!]",
+      "category": "10-其他资料",
+      "source": "数据库变量说明.htm",
+      "chars": 341
+    },
+    {
+      "path": "docs/10-其他资料/按比例恢复的太阳水类药品[!].md",
+      "title": "按比例恢复的太阳水类药品[!]",
+      "category": "10-其他资料",
+      "source": "新的太阳水药品（按自身HP和MP比例恢复).html",
+      "chars": 427
+    },
+    {
+      "path": "docs/10-其他资料/时装说明：.md",
+      "title": "时装说明：",
+      "category": "10-其他资料",
+      "source": "时装.html",
+      "chars": 4786
+    },
+    {
+      "path": "docs/10-其他资料/设置显示名称格式.md",
+      "title": "设置显示名称格式",
+      "category": "10-其他资料",
+      "source": "显示名称控制.htm",
+      "chars": 871
+    },
+    {
+      "path": "docs/10-其他资料/查看人物私聊信息.md",
+      "title": "查看人物私聊信息",
+      "category": "10-其他资料",
+      "source": "查看人物私聊信息.htm",
+      "chars": 101
+    },
+    {
+      "path": "docs/10-其他资料/神秘人地图设置.md",
+      "title": "神秘人地图设置",
+      "category": "10-其他资料",
+      "source": "浑水摸鱼.HTM",
+      "chars": 1473
+    },
+    {
+      "path": "docs/10-其他资料/添加自动排列按钮，自定义按钮自动排列.md",
+      "title": "添加自动排列按钮，自定义按钮自动排列",
+      "category": "10-其他资料",
+      "source": "添加自动排列按钮.html",
+      "chars": 1067
+    },
+    {
+      "path": "docs/10-其他资料/物品位置[!].md",
+      "title": "物品位置[!]",
+      "category": "10-其他资料",
+      "source": "物品位置[!].htm",
+      "chars": 376
+    },
+    {
+      "path": "docs/10-其他资料/物品来源相关.md",
+      "title": "物品来源相关",
+      "category": "10-其他资料",
+      "source": "物品来源相关文档.htm",
+      "chars": 601
+    },
+    {
+      "path": "docs/10-其他资料/物品绑定人物.md",
+      "title": "物品绑定人物",
+      "category": "10-其他资料",
+      "source": "物品绑定人物.htm",
+      "chars": 319
+    },
+    {
+      "path": "docs/10-其他资料/ClientMerchantDlgSelect接收到非法请求？.md",
+      "title": "ClientMerchantDlgSelect接收到非法请求？",
+      "category": "10-其他资料",
+      "source": "特殊字段应用.HTML",
+      "chars": 440
+    },
+    {
+      "path": "docs/10-其他资料/用户游戏命令详解.md",
+      "title": "用户游戏命令详解",
+      "category": "10-其他资料",
+      "source": "用户游戏相关命令.htm",
+      "chars": 772
+    },
+    {
+      "path": "docs/10-其他资料/登录器标识变量.md",
+      "title": "登录器标识变量",
+      "category": "10-其他资料",
+      "source": "登录器推广标识.HTM",
+      "chars": 123
+    },
+    {
+      "path": "docs/10-其他资料/盛大称号系统介绍.md",
+      "title": "盛大称号系统介绍",
+      "category": "10-其他资料",
+      "source": "称号系统.htm",
+      "chars": 6592
+    },
+    {
+      "path": "docs/10-其他资料/程序变量说明[!].md",
+      "title": "程序变量说明[!]",
+      "category": "10-其他资料",
+      "source": "程序变量说明[!].htm",
+      "chars": 3914
+    },
+    {
+      "path": "docs/10-其他资料/仿Herom2第三方骑马参数：变量：_$HORSE_  装备位置：15.md",
+      "title": "仿Herom2第三方骑马参数：变量：<$HORSE>  装备位置：15",
+      "category": "10-其他资料",
+      "source": "第三方骑马.html",
+      "chars": 4761
+    },
+    {
+      "path": "docs/10-其他资料/脚本变量大全[!].md",
+      "title": "脚本变量大全[!]",
+      "category": "10-其他资料",
+      "source": "脚本变量大全[!].htm",
+      "chars": 8135
+    },
+    {
+      "path": "docs/10-其他资料/自定义安全区光柱类型.md",
+      "title": "自定义安全区光柱类型",
+      "category": "10-其他资料",
+      "source": "自定义安全区光柱.htm",
+      "chars": 360
+    },
+    {
+      "path": "docs/10-其他资料/获取当前NPC名称.md",
+      "title": "获取当前NPC名称",
+      "category": "10-其他资料",
+      "source": "获取当前NPC名称.html",
+      "chars": 75
+    },
+    {
+      "path": "docs/10-其他资料/获取装备镶嵌宝石数量.md",
+      "title": "获取装备镶嵌宝石数量",
+      "category": "10-其他资料",
+      "source": "获取装备宝石数量.html",
+      "chars": 411
+    },
+    {
+      "path": "docs/10-其他资料/本地登陆器集成列表[!].md",
+      "title": "本地登陆器集成列表[!]",
+      "category": "10-其他资料",
+      "source": "集成列表.html",
+      "chars": 181
+    },
+    {
+      "path": "docs/10-其他资料/将需要继承的补丁文件放入补丁文件夹内相应的目录内.md",
+      "title": "将需要继承的补丁文件放入补丁文件夹内相应的目录内.",
+      "category": "10-其他资料",
+      "source": "集成补丁说明.html",
+      "chars": 326
+    },
+    {
+      "path": "docs/10-其他资料/页游天关系统.md",
+      "title": "页游天关系统",
+      "category": "10-其他资料",
+      "source": "页游天关系统.html",
+      "chars": 1401
+    },
+    {
+      "path": "docs/10-其他资料/首饰盒详情：.md",
+      "title": "首饰盒详情：",
+      "category": "10-其他资料",
+      "source": "首饰盒.html",
+      "chars": 2422
+    },
+    {
+      "path": "docs/10-其他资料/魔血石、气血石、幻魔石说明[!].md",
+      "title": "魔血石、气血石、幻魔石说明[!]",
+      "category": "10-其他资料",
+      "source": "魔血石、气血石、幻魔石.htm",
+      "chars": 649
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/不允许宝石升级.md",
+      "title": "不允许宝石升级",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "不允许宝石升级.htm",
+      "chars": 193
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/人物聊天文字变色.md",
+      "title": "人物聊天文字变色",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "人物聊天文字变色.htm",
+      "chars": 123
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/关闭大对话框模式.md",
+      "title": "关闭大对话框模式",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "关闭大对话框模式.htm",
+      "chars": 76
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/写入指定文本文件.md",
+      "title": "写入指定文本文件",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "写入指定文本文件[!].htm",
+      "chars": 133
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/创建目录.md",
+      "title": "创建目录",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "创建目录.htm",
+      "chars": 86
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/删除地图动态链接点.md",
+      "title": "删除地图动态链接点",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "删除地图动态链接点.htm",
+      "chars": 110
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/动态修改地图名字.md",
+      "title": "动态修改地图名字",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "动态修改地图名字.htm",
+      "chars": 136
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/取下人物身上装备.md",
+      "title": "取下人物身上装备",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "取下人物身上装备.htm",
+      "chars": 56
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/取字符串在列表中的位置.md",
+      "title": "取字符串在列表中的位置",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "取字符串在列表中的位置.htm",
+      "chars": 211
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/取得随机字符串.md",
+      "title": "取得随机字符串",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "取得随机字符串.htm",
+      "chars": 345
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/取装备名字.md",
+      "title": "取装备名字",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "取装备名字.htm",
+      "chars": 237
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/召唤自己的分身.md",
+      "title": "召唤自己的分身",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "召唤自己的分身.htm",
+      "chars": 211
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/地图随机物品.md",
+      "title": "地图随机物品",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "地图随机物品.htm",
+      "chars": 271
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/增加限次使用物品的次数.md",
+      "title": "增加限次使用物品的次数",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "增加限次使用物品的次数.htm",
+      "chars": 362
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/宝宝立即叛变.md",
+      "title": "宝宝立即叛变",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "宝宝立即叛变.htm",
+      "chars": 522
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/屏幕中间显示公告.md",
+      "title": "屏幕中间显示公告",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "屏幕中间显示公告.htm",
+      "chars": 794
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/延时执行脚本.md",
+      "title": "延时执行脚本",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "延时执行脚本.htm",
+      "chars": 120
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/建立一个文本文件.md",
+      "title": "建立一个文本文件",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "建立一个文本文件.htm",
+      "chars": 120
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/建立新行会.md",
+      "title": "建立新行会",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "建立新行会.htm",
+      "chars": 106
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/强制攻击模式.md",
+      "title": "强制攻击模式",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "强制攻击模式.htm",
+      "chars": 364
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/禁言、恢复发言.md",
+      "title": "禁言、恢复发言",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "恢复发言.htm",
+      "chars": 259
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/所有行会同时攻城.md",
+      "title": "所有行会同时攻城",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "所有行会同时攻城.htm",
+      "chars": 96
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/打开游戏商铺.md",
+      "title": "打开游戏商铺",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "打开游戏商铺.htm",
+      "chars": 73
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/打开网站地址.md",
+      "title": "打开网站地址",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "打开网站地址.htm",
+      "chars": 338
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/拆解物品.md",
+      "title": "拆解物品",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "拆解物品.htm",
+      "chars": 686
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/排序人物自定义变量[!].md",
+      "title": "排序人物自定义变量[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "排序人物自定义变量[!].htm",
+      "chars": 355
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/排序在线人物自定义变量[!].md",
+      "title": "排序在线人物自定义变量[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "排序在线人物自定义变量[!].htm",
+      "chars": 372
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/收回人物的英雄.md",
+      "title": "收回人物的英雄",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "收回人物的英雄.htm",
+      "chars": 75
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/改变人物的模式.md",
+      "title": "改变人物的模式",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "改变人物的模式.htm",
+      "chars": 561
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/改变宝宝名字颜色.md",
+      "title": "改变宝宝名字颜色",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "改变宝宝名字颜色.htm",
+      "chars": 57
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/改变指定行会的掌门人.md",
+      "title": "改变指定行会的掌门人",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "改变指定行会的掌门人.htm",
+      "chars": 88
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/改变物品的持久.md",
+      "title": "改变物品的持久",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "改变物品的持久.htm",
+      "chars": 244
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/改变用户模式.md",
+      "title": "改变用户模式",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "改变用户模式.htm",
+      "chars": 820
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/改变衣服翅膀效果.md",
+      "title": "改变衣服翅膀效果",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "改变衣服翅膀效果.htm",
+      "chars": 187
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/新物品绑定检测.md",
+      "title": "新物品绑定检测",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "新物品绑定检测.htm",
+      "chars": 99
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/新的装备改名.md",
+      "title": "新的装备改名",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "新的装备改名.htm",
+      "chars": 398
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/新的装备绑定.md",
+      "title": "新的装备绑定",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "新的装备绑定.htm",
+      "chars": 288
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/杀死人物的宝宝.md",
+      "title": "杀死人物的宝宝",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "杀死人物的宝宝.htm",
+      "chars": 134
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/杀死地图中的怪物.md",
+      "title": "杀死地图中的怪物",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "杀死地图中的怪物.htm",
+      "chars": 166
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/查看动态地图链接点.md",
+      "title": "查看动态地图链接点",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "查看动态地图链接点.htm",
+      "chars": 300
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/清除宝石升级属性.md",
+      "title": "清除宝石升级属性",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "清除宝石升级属性.htm",
+      "chars": 132
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/英雄增加以及删除技能.md",
+      "title": "英雄增加以及删除技能",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "清除英雄所有技能.htm",
+      "chars": 83
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/物品合成系统.md",
+      "title": "物品合成系统",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "物品合成系统.htm",
+      "chars": 1312
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/特修身上装备.md",
+      "title": "特修身上装备",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "特修身上装备.htm",
+      "chars": 158
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/移动怪物到新坐标.md",
+      "title": "移动怪物到新坐标",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "移动怪物到新坐标.htm",
+      "chars": 165
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/移动某地图全部人物到另外一个地图.md",
+      "title": "移动某地图全部人物到另外一个地图",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "移动某地图全部人物到另外一个地图.htm",
+      "chars": 86
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/穿人模式.md",
+      "title": "穿人模式",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "穿人模式.htm",
+      "chars": 129
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/给予带绑定状态装备[!].md",
+      "title": "给予带绑定状态装备[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "给予带绑定状态装备.htm",
+      "chars": 296
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/给字符串增加空格.md",
+      "title": "给字符串增加空格",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "给字符串增加空格.html",
+      "chars": 428
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/自动寻路.md",
+      "title": "自动寻路",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "自动寻路.htm",
+      "chars": 101
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/自动穿戴装备.md",
+      "title": "自动穿戴装备",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "自动穿戴装备.htm",
+      "chars": 344
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/自定义颜色文字发送.md",
+      "title": "自定义颜色文字发送",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "自定义颜色文字发送.htm",
+      "chars": 333
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/英雄登录器荣誉.md",
+      "title": "英雄登录器荣誉",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "英雄登录器荣誉.htm",
+      "chars": 94
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/获取对面人物的名字.md",
+      "title": "获取对面人物的名字",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "获取对面人物的名字.htm",
+      "chars": 111
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/获取玩家名字.md",
+      "title": "获取玩家名字",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "获取玩家名字.htm",
+      "chars": 104
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/设置人物伤害吸收.md",
+      "title": "设置人物伤害吸收",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "设置人物伤害吸收.htm",
+      "chars": 421
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/设置人物商铺购买价格比例.md",
+      "title": "设置人物商铺购买价格比例",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "设置人物商铺购买价格比例.htm",
+      "chars": 217
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/设置物品和人物绑定[!].md",
+      "title": "设置物品和人物绑定[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "设置物品和人物绑定.htm",
+      "chars": 328
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/设置英雄伤害吸收.md",
+      "title": "设置英雄伤害吸收",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "设置英雄伤害吸收.htm",
+      "chars": 280
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/设置装备发光.md",
+      "title": "设置装备发光",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "设置装备发光.htm",
+      "chars": 244
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/设置装备绑定状态[!].md",
+      "title": "设置装备绑定状态[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "设置装备绑定状态.htm",
+      "chars": 458
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/读取文本内容到变量[!].md",
+      "title": "读取文本内容到变量[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "读取文本内容到变量.htm",
+      "chars": 223
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/调整英雄的PK值[!].md",
+      "title": "调整英雄的PK值[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "调整英雄的PK值.htm",
+      "chars": 300
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/调整英雄的忠诚度.md",
+      "title": "调整英雄的忠诚度",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "调整英雄的忠诚度.htm",
+      "chars": 366
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/调整英雄等级[!].md",
+      "title": "调整英雄等级[!]",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "调整英雄等级.htm",
+      "chars": 120
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/调整英雄职业.md",
+      "title": "调整英雄职业",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "调整英雄职业.htm",
+      "chars": 105
+    },
+    {
+      "path": "docs/11-HeroM2兼容/01-功能操作命令/随机验证码.md",
+      "title": "随机验证码",
+      "category": "11-HeroM2兼容/01-功能操作命令",
+      "source": "随机验证码.htm",
+      "chars": 229
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查一个范围内怪物数.md",
+      "title": "检查一个范围内怪物数",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查一个范围内怪物数.htm",
+      "chars": 307
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查人物所在地图是否允许使用记忆,夫妻,师徒传送.md",
+      "title": "检查人物所在地图是否允许使用记忆,夫妻,师徒传送",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查人物所在地图是否允许使用记忆,夫妻,师徒传送.htm",
+      "chars": 72
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查人物是否在指定范围内.md",
+      "title": "检查人物是否在指定范围内",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查人物是否在指定范围内.htm",
+      "chars": 160
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查人物是否学习了某项魔法.md",
+      "title": "检查人物是否学习了某项魔法",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查人物是否学习了某项魔法.htm",
+      "chars": 60
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查人物杀死怪物的名字.md",
+      "title": "检查人物杀死怪物的名字",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查人物杀死怪物的名字.htm",
+      "chars": 221
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查人物被踢次数.md",
+      "title": "检查人物被踢次数",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查人物被踢次数.htm",
+      "chars": 55
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测服务器最高属性人物命令.md",
+      "title": "检测服务器最高属性人物命令",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查在线最高属性人物.htm",
+      "chars": 580
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查地图中的人物是否属于同一个行会.md",
+      "title": "检查地图中的人物是否属于同一个行会",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查地图中的人物是否属于同一个行会.htm",
+      "chars": 126
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查宝宝数量.md",
+      "title": "检查宝宝数量",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查宝宝数量.htm",
+      "chars": 899
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查宝宝最高等级.md",
+      "title": "检查宝宝最高等级",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查宝宝最高等级.htm",
+      "chars": 659
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查指定人物背包空格数量.md",
+      "title": "检查指定人物背包空格数量",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查指定人物背包空格数量.htm",
+      "chars": 80
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查指定范围内人物数量.md",
+      "title": "检查指定范围内人物数量",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查指定范围内人物数量.htm",
+      "chars": 191
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查是否有英雄.md",
+      "title": "检查是否有英雄",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查是否有英雄.htm",
+      "chars": 68
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查是被人物还是怪物杀死的.md",
+      "title": "检查是被人物还是怪物杀死的",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查是被人物还是怪物杀死的.htm",
+      "chars": 320
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查正在取下身上装备的名字.md",
+      "title": "检查正在取下身上装备的名字",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查正在取下身上装备的名字.htm",
+      "chars": 347
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查正在攻击中的怪物名字.md",
+      "title": "检查正在攻击中的怪物名字",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查正在攻击中的怪物名字.htm",
+      "chars": 122
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查正在穿身上装备的名字名字.md",
+      "title": "检查正在穿身上装备的名字名字",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查正在穿身上装备的名字.html",
+      "chars": 268
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查自己和宝宝之间的距离[!].md",
+      "title": "检查自己和宝宝之间的距离[!]",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查自己和宝宝之间的距离[!].htm",
+      "chars": 156
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查英雄等级.md",
+      "title": "检查英雄等级",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查英雄等级.htm",
+      "chars": 100
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检查装备升级次数.md",
+      "title": "检查装备升级次数",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检查装备升级次数.htm",
+      "chars": 208
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测人物是否挂机.md",
+      "title": "检测人物是否挂机",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测人物是否挂机.htm",
+      "chars": 31
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测人物的伤害吸收.md",
+      "title": "检测人物的伤害吸收",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测人物的伤害吸收.htm",
+      "chars": 133
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测人物的攻击模式.md",
+      "title": "检测人物的攻击模式",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测人物的攻击模式.htm",
+      "chars": 123
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测字符串长度命令.md",
+      "title": "检测字符串长度命令",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测字符串长度命令.htm",
+      "chars": 200
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测当前宝石升级装备的名字.md",
+      "title": "检测当前宝石升级装备的名字",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测当前宝石升级装备的名字.htm",
+      "chars": 282
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测新属性.md",
+      "title": "检测新属性",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测新属性.htm",
+      "chars": 395
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测月份.md",
+      "title": "检测月份",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测月份.htm",
+      "chars": 192
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测本月的天数.md",
+      "title": "检测本月的天数",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测本月的天数.htm",
+      "chars": 204
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测物品持久.md",
+      "title": "检测物品持久",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测物品持久.htm",
+      "chars": 263
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测物品纯度.md",
+      "title": "检测物品纯度",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测物品纯度.htm",
+      "chars": 207
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测英雄登录器荣誉.md",
+      "title": "检测英雄登录器荣誉",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测英雄登录器荣誉.htm",
+      "chars": 115
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测英雄的PK值.md",
+      "title": "检测英雄的PK值",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测英雄的PK值.htm",
+      "chars": 62
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测英雄的伤害吸收.md",
+      "title": "检测英雄的伤害吸收",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测英雄的伤害吸收.htm",
+      "chars": 142
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测英雄的忠诚度.md",
+      "title": "检测英雄的忠诚度",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测英雄的忠诚度.htm",
+      "chars": 165
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测英雄职业.md",
+      "title": "检测英雄职业",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测英雄职业.htm",
+      "chars": 132
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测被自己杀死宝宝的名字.md",
+      "title": "检测被自己杀死宝宝的名字",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测被自己杀死宝宝的名字.htm",
+      "chars": 104
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测装备名字颜色.md",
+      "title": "检测装备名字颜色",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测装备名字颜色.htm",
+      "chars": 179
+    },
+    {
+      "path": "docs/11-HeroM2兼容/02-脚本检测命令/检测装备的附加属性总和[!].md",
+      "title": "检测装备的附加属性总和[!]",
+      "category": "11-HeroM2兼容/02-脚本检测命令",
+      "source": "检测装备的附加属性总和[!].htm",
+      "chars": 254
+    },
+    {
+      "path": "docs/11-HeroM2兼容/03-特殊触发功能/技能触发脚本功能.md",
+      "title": "技能触发脚本功能",
+      "category": "11-HeroM2兼容/03-特殊触发功能",
+      "source": "技能触发脚本功能.htm",
+      "chars": 454
+    },
+    {
+      "path": "docs/11-HeroM2兼容/03-特殊触发功能/摆摊触发脚本.md",
+      "title": "摆摊触发脚本",
+      "category": "11-HeroM2兼容/03-特殊触发功能",
+      "source": "摆摊触发脚本.htm",
+      "chars": 228
+    },
+    {
+      "path": "docs/11-HeroM2兼容/03-特殊触发功能/购买商铺物品时触发.md",
+      "title": "购买商铺物品时触发",
+      "category": "11-HeroM2兼容/03-特殊触发功能",
+      "source": "购买商铺物品时触发.htm",
+      "chars": 450
+    },
+    {
+      "path": "docs/11-HeroM2兼容/04-游戏功能详解/宝石升级系统[!].md",
+      "title": "宝石升级系统[!]",
+      "category": "11-HeroM2兼容/04-游戏功能详解",
+      "source": "宝石升级系统[!].htm",
+      "chars": 2662
+    },
+    {
+      "path": "docs/11-HeroM2兼容/04-游戏功能详解/毒素武器[!].md",
+      "title": "毒素武器[!]",
+      "category": "11-HeroM2兼容/04-游戏功能详解",
+      "source": "毒素武器[!].htm",
+      "chars": 202
+    },
+    {
+      "path": "docs/03-功能操作命令/NPC界面调用怪物外形.md",
+      "title": "NPC界面调用怪物外形",
+      "category": "03-功能操作命令",
+      "source": "NPC界面调用怪物外形.html",
+      "chars": 208
+    },
+    {
+      "path": "docs/00-更新日志/2021新增功能.md",
+      "title": "2021新增功能",
+      "category": "00-更新日志",
+      "source": "page_1.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/嘲讽命令、吸怪.md",
+      "title": "嘲讽命令、吸怪",
+      "category": "00-更新日志",
+      "source": "page_10.html",
+      "chars": 184
+    },
+    {
+      "path": "docs/00-更新日志/2021年3月20日.md",
+      "title": "2021年3月20日",
+      "category": "00-更新日志",
+      "source": "page_11.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/新脚本带编号的写法.md",
+      "title": "新脚本带编号的写法",
+      "category": "00-更新日志",
+      "source": "page_12.html",
+      "chars": 229
+    },
+    {
+      "path": "docs/00-更新日志/新增命令遍历背包,获取物品信息.md",
+      "title": "新增命令遍历背包,获取物品信息.",
+      "category": "00-更新日志",
+      "source": "page_13.html",
+      "chars": 512
+    },
+    {
+      "path": "docs/00-更新日志/新增命令读取文本行数.md",
+      "title": "新增命令读取文本行数",
+      "category": "00-更新日志",
+      "source": "page_14.html",
+      "chars": 157
+    },
+    {
+      "path": "docs/00-更新日志/扩展字符串切割命令.md",
+      "title": "扩展字符串切割命令",
+      "category": "00-更新日志",
+      "source": "page_15.html",
+      "chars": 339
+    },
+    {
+      "path": "docs/00-更新日志/新增可滑动的容器.md",
+      "title": "新增可滑动的容器",
+      "category": "00-更新日志",
+      "source": "page_16.html",
+      "chars": 376
+    },
+    {
+      "path": "docs/00-更新日志/新增引导系统.md",
+      "title": "新增引导系统",
+      "category": "00-更新日志",
+      "source": "page_17.html",
+      "chars": 1034
+    },
+    {
+      "path": "docs/00-更新日志/新增红点命令.md",
+      "title": "新增红点命令",
+      "category": "00-更新日志",
+      "source": "page_18.html",
+      "chars": 286
+    },
+    {
+      "path": "docs/00-更新日志/通过唯一ID放入OK框.md",
+      "title": "通过唯一ID放入OK框",
+      "category": "00-更新日志",
+      "source": "page_19.html",
+      "chars": 57
+    },
+    {
+      "path": "docs/00-更新日志/2021新增功能_1.md",
+      "title": "2021新增功能",
+      "category": "00-更新日志",
+      "source": "page_2.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/新任务系统.md",
+      "title": "新任务系统",
+      "category": "00-更新日志",
+      "source": "page_20.html",
+      "chars": 99
+    },
+    {
+      "path": "docs/00-更新日志/新增自动穿戴.md",
+      "title": "新增自动穿戴",
+      "category": "00-更新日志",
+      "source": "page_21.html",
+      "chars": 61
+    },
+    {
+      "path": "docs/00-更新日志/自定义货币系统.md",
+      "title": "自定义货币系统",
+      "category": "00-更新日志",
+      "source": "page_22.html",
+      "chars": 454
+    },
+    {
+      "path": "docs/00-更新日志/扩展脚本带参回调.md",
+      "title": "扩展脚本带参回调",
+      "category": "00-更新日志",
+      "source": "page_23.html",
+      "chars": 526
+    },
+    {
+      "path": "docs/00-更新日志/2022年7月1日.md",
+      "title": "2022年7月1日",
+      "category": "00-更新日志",
+      "source": "page_24.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/2022-07-01更新.md",
+      "title": "2022-07-01更新",
+      "category": "00-更新日志",
+      "source": "page_25.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/人物开除退出行会触发.md",
+      "title": "人物开除退出行会触发",
+      "category": "00-更新日志",
+      "source": "page_26.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/新主题.md",
+      "title": "新主题",
+      "category": "00-更新日志",
+      "source": "page_27.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/人物退出行会前触发.md",
+      "title": "人物退出行会前触发",
+      "category": "00-更新日志",
+      "source": "page_28.html",
+      "chars": 143
+    },
+    {
+      "path": "docs/00-更新日志/易宝阁详细说明.md",
+      "title": "易宝阁详细说明",
+      "category": "00-更新日志",
+      "source": "page_29.html",
+      "chars": 1180
+    },
+    {
+      "path": "docs/00-更新日志/新增的隐身状态属性.md",
+      "title": "新增的隐身状态属性",
+      "category": "00-更新日志",
+      "source": "page_3.html",
+      "chars": 178
+    },
+    {
+      "path": "docs/00-更新日志/嘲讽命令,吸怪.md",
+      "title": "嘲讽命令,吸怪",
+      "category": "00-更新日志",
+      "source": "page_4.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/无标题文档.md",
+      "title": "无标题文档",
+      "category": "00-更新日志",
+      "source": "page_5.html",
+      "chars": 1437
+    },
+    {
+      "path": "docs/00-更新日志/一键回收功能.md",
+      "title": "一键回收功能",
+      "category": "00-更新日志",
+      "source": "page_6.html",
+      "chars": 0
+    },
+    {
+      "path": "docs/00-更新日志/人物取下装备前触发、英雄取下装备前触发.md",
+      "title": "人物取下装备前触发、英雄取下装备前触发",
+      "category": "00-更新日志",
+      "source": "page_7.html",
+      "chars": 524
+    },
+    {
+      "path": "docs/00-更新日志/个人商店物品上架触发、下架触发、停止个人商店物品上架、停止个人商店物品下架.md",
+      "title": "个人商店物品上架触发、下架触发、停止个人商店物品上架、停止个人商店物品下架",
+      "category": "00-更新日志",
+      "source": "page_8.html",
+      "chars": 971
+    },
+    {
+      "path": "docs/00-更新日志/增加NPC面板可以改变字体大小.md",
+      "title": "增加NPC面板可以改变字体大小",
+      "category": "00-更新日志",
+      "source": "page_9.html",
+      "chars": 140
+    },
+    {
+      "path": "docs/10-其他资料/Geem2历史更新记录.md",
+      "title": "Geem2历史更新记录",
+      "category": "10-其他资料",
+      "source": "UpDate.htm",
+      "chars": 215032
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物死亡掉落触发.md",
+      "title": "人物死亡掉落触发",
+      "category": "05-特殊触发功能",
+      "source": "人物死亡掉落触发.html",
+      "chars": 496
+    },
+    {
+      "path": "docs/03-功能操作命令/修改宝宝属性_1.md",
+      "title": "修改宝宝属性",
+      "category": "03-功能操作命令",
+      "source": "修改宝宝属性.html",
+      "chars": 1777
+    },
+    {
+      "path": "docs/05-特殊触发功能/切换攻击模式触发.md",
+      "title": "切换攻击模式触发",
+      "category": "05-特殊触发功能",
+      "source": "切换攻击模式触发.html",
+      "chars": 122
+    },
+    {
+      "path": "docs/03-功能操作命令/新主题.md",
+      "title": "新主题",
+      "category": "03-功能操作命令",
+      "source": "取两个时间之间的相差.html",
+      "chars": 296
+    },
+    {
+      "path": "docs/03-功能操作命令/回收指定位置装备.md",
+      "title": "回收指定位置装备",
+      "category": "03-功能操作命令",
+      "source": "回收指定位置装备.html",
+      "chars": 424
+    },
+    {
+      "path": "docs/03-功能操作命令/无标题文档.md",
+      "title": "无标题文档",
+      "category": "03-功能操作命令",
+      "source": "地图参数限制时间.html",
+      "chars": 351
+    },
+    {
+      "path": "docs/03-功能操作命令/无标题文档_1.md",
+      "title": "无标题文档",
+      "category": "03-功能操作命令",
+      "source": "增加获取物品数量.html",
+      "chars": 155
+    },
+    {
+      "path": "docs/00-更新日志/官方主页.md",
+      "title": "官方主页",
+      "category": "00-更新日志",
+      "source": "官方主页.htm",
+      "chars": 2220
+    },
+    {
+      "path": "docs/03-功能操作命令/打开NPC对话框.md",
+      "title": "打开NPC对话框",
+      "category": "03-功能操作命令",
+      "source": "打开NPC对话框.html",
+      "chars": 516
+    },
+    {
+      "path": "docs/10-其他资料/增加NPC面板可以改变字体大小.md",
+      "title": "增加NPC面板可以改变字体大小",
+      "category": "10-其他资料",
+      "source": "改变字体大小.html",
+      "chars": 139
+    },
+    {
+      "path": "docs/03-功能操作命令/文本字符交换替换命令.md",
+      "title": "文本字符交换替换命令",
+      "category": "03-功能操作命令",
+      "source": "文本字符交换替换命令.html",
+      "chars": 388
+    },
+    {
+      "path": "docs/10-其他资料/新怪物数据[!].md",
+      "title": "新怪物数据[!]",
+      "category": "10-其他资料",
+      "source": "新怪物数据[!].htm",
+      "chars": 12358
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测地图NPC坐标.md",
+      "title": "检测地图NPC坐标",
+      "category": "04-脚本检测命令",
+      "source": "检测地图NPC坐标.html",
+      "chars": 247
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测地图怪物坐标.md",
+      "title": "检测地图怪物坐标",
+      "category": "04-脚本检测命令",
+      "source": "检测地图怪物坐标.html",
+      "chars": 211
+    },
+    {
+      "path": "docs/04-脚本检测命令/检测英雄怒气值命令.md",
+      "title": "检测英雄怒气值命令",
+      "category": "04-脚本检测命令",
+      "source": "检测英雄怒气值.html",
+      "chars": 168
+    },
+    {
+      "path": "docs/05-特殊触发功能/物品进入背包触发.md",
+      "title": "物品进入背包触发",
+      "category": "05-特殊触发功能",
+      "source": "物品进入背包触发.html",
+      "chars": 126
+    },
+    {
+      "path": "docs/10-其他资料/神佑盒扩展.md",
+      "title": "神佑盒扩展",
+      "category": "10-其他资料",
+      "source": "神佑盒扩展.html",
+      "chars": 3927
+    },
+    {
+      "path": "docs/05-特殊触发功能/人物穿戴前触发_英雄穿戴前触发.md",
+      "title": "人物穿戴前触发/英雄穿戴前触发",
+      "category": "05-特殊触发功能",
+      "source": "穿戴前触发.html",
+      "chars": 553
+    },
+    {
+      "path": "docs/03-功能操作命令/背包物品放入仓库命令.md",
+      "title": "背包物品放入仓库命令",
+      "category": "03-功能操作命令",
+      "source": "背包物品放入仓库.html",
+      "chars": 227
+    },
+    {
+      "path": "docs/03-功能操作命令/脚本开启行会战争.md",
+      "title": "脚本开启行会战争",
+      "category": "03-功能操作命令",
+      "source": "脚本命令开启行会战.html",
+      "chars": 154
+    },
+    {
+      "path": "docs/08-脚本实例/脚本性能原子钟.md",
+      "title": "脚本性能原子钟",
+      "category": "08-脚本实例",
+      "source": "脚本性能原子钟.html",
+      "chars": 302
+    },
+    {
+      "path": "docs/03-功能操作命令/无标题文档_2.md",
+      "title": "无标题文档",
+      "category": "03-功能操作命令",
+      "source": "获取指定位置的物品数量.html",
+      "chars": 155
+    },
+    {
+      "path": "docs/03-功能操作命令/获取行会人数脚本命令.md",
+      "title": "获取行会人数脚本命令",
+      "category": "03-功能操作命令",
+      "source": "获取行会人数脚本命令.html",
+      "chars": 208
+    },
+    {
+      "path": "docs/10-其他资料/无标题文档.md",
+      "title": "无标题文档",
+      "category": "10-其他资料",
+      "source": "角色打怪自动拾取.html",
+      "chars": 1437
+    },
+    {
+      "path": "docs/03-功能操作命令/调整人物属性百分比加成.md",
+      "title": "调整人物属性百分比加成",
+      "category": "03-功能操作命令",
+      "source": "调整人物属性百分比.html",
+      "chars": 626
+    },
+    {
+      "path": "docs/08-脚本实例/新主题.md",
+      "title": "新主题",
+      "category": "08-脚本实例",
+      "source": "高效的计算方式.html",
+      "chars": 242
+    }
+  ]
+}
