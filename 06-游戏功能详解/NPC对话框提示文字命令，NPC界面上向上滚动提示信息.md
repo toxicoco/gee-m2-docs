@@ -1,0 +1,33 @@
+---
+title: "NPC对话框提示文字命令，NPC界面上向上滚动提示信息"
+source_file: "NPC对话框提示文字命令.htm"
+category: "06-游戏功能详解"
+---
+
+# NPC对话框提示文字命令，NPC界面上向上滚动提示信息
+
+功能说明：NPC界面上向上滚动提示信息
+
+
+格式：SENDMOVEHINTMSG  文字信息  文字颜色 背景颜色  X坐标 Y坐标
+
+
+文字换行：\
+
+
+[@5555]
+
+
+#IF
+
+
+checkgold 2500000
+
+
+#ACT
+
+
+#ELSEACT
+
+
+SENDMOVEHINTMSG 金币不足\金币不足 249 0 10 60
