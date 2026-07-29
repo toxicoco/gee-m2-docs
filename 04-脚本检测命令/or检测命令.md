@@ -1,0 +1,36 @@
+---
+title: "or检测命令"
+source_file: "or检测命令.html"
+category: "04-脚本检测命令"
+---
+
+# or检测命令
+
+增加#or 脚本处理
+
+
+
+
+比如:
+
+
+
+
+#or
+
+
+CHECKLEVEL 85
+
+
+checkgamegold > 49999
+
+
+#ACT
+
+
+SendMsg 5 检测通过
+
+
+
+
+两个条件只有一个符合.即可往下继续执行
