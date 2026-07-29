@@ -1,0 +1,26 @@
+---
+title: "根据物品数据库idx直接得到物品"
+source_file: "根据物品数据库idx直接得到物品.html"
+category: "06-游戏功能详解"
+---
+
+# 根据物品数据库idx直接得到物品
+
+说明: 根据物品数据库idx直接得到物品
+
+
+格式: giveidx idx编号 数量
+
+
+
+
+#ACT
+
+
+giveidx 10 1
+
+
+SENDMSG 6 恭喜你获得IDX序号为10的物品。
+
+
+Break
