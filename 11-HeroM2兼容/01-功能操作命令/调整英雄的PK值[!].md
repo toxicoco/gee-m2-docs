@@ -1,0 +1,69 @@
+---
+title: "调整英雄的PK值[!]"
+source_file: "调整英雄的PK值.htm"
+category: "11-HeroM2兼容/01-功能操作命令"
+---
+
+# 调整英雄的PK值[!]
+
+增加英雄PK值
+
+
+#IF
+
+CheckHeroOnline
+
+#ACT
+
+ChangeHeroPkPoint +
+
+100
+
+#SAY
+
+
+
+你英雄的PK值增加100点.
+
+
+减少英雄PK值
+
+
+#IF
+
+CheckHeroOnline
+
+#ACT
+
+ChangeHeroPkPoint -
+
+100
+
+#SAY
+
+
+
+你英雄的PK值减少100点.
+
+
+调整英雄PK值
+
+
+#IF
+
+CheckHeroOnline
+
+#ACT
+
+ChangeHeroPkPoint =
+
+100
+
+#SAY
+
+
+
+你英雄的PK值等于0点.
+
+
+;英雄PK值脚本变量查看：英雄当前PK值：<$HEROPKPOINT>
