@@ -1,0 +1,36 @@
+---
+title: "删除一个NPC"
+source_file: "删除一个NPC.htm"
+category: "03-功能操作命令"
+---
+
+# 删除一个NPC
+
+删除一个NPC
+
+
+格式: DELNPC NPC名字  地图代码
+
+
+#IF
+
+#ACT
+
+DelNpc
+
+测试
+
+
+DELNPC 扩展参数3支持删除指定地图的NPC
+
+
+格式：
+
+
+命令  NPC名字  NPC所在地图代码(留空保持原有规则：删除所有地图该名字NPC)
+
+
+如：Delnpc 传送员 3
+
+
+意思为地图代码3的NPC名字为传送员的！
